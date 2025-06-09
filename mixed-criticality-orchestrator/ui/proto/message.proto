@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AppDetails {
+  string apps = 1;
+}

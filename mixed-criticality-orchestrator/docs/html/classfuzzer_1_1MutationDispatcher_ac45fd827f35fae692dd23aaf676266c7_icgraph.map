@@ -1,0 +1,4 @@
+<map id="fuzzer::MutationDispatcher::Mutate_ChangeBit" name="fuzzer::MutationDispatcher::Mutate_ChangeBit">
+<area shape="rect" id="node1" title="Mutates data by chanding one bit." alt="" coords="108,5,307,47"/>
+<area shape="rect" id="node2" href="$FuzzerUnittest_8cpp.html#a1b087885957b0f8c5b69a17d33cbeee4" title=" " alt="" coords="5,13,60,39"/>
+</map>

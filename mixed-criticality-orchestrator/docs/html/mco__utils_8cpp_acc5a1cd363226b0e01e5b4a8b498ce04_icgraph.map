@@ -1,0 +1,9 @@
+<map id="updateResources" name="updateResources">
+<area shape="rect" id="node1" title=" " alt="" coords="661,111,796,138"/>
+<area shape="rect" id="node2" href="$classUserAppControlHandler.html#aa7090082a9d4cf39d3a6b8a1e1334a3a" title="Unpause ASIL App selected by User from Vehicle State UI." alt="" coords="439,5,613,47"/>
+<area shape="rect" id="node3" href="$classUserAppControlHandler.html#a5bee2fdba62376c62ee8dd29bbb4fb6d" title="Play QM App selected by User from Infotainment UI." alt="" coords="439,71,613,112"/>
+<area shape="rect" id="node4" href="$classUserAppControlHandler.html#a668e04c325692c11f03208ea46483d51" title="Pause ASIL App selected by User from Vehicle State UI." alt="" coords="439,136,613,177"/>
+<area shape="rect" id="node5" href="$classUserAppControlHandler.html#a032624472da74d1abdf2f4b974965bc8" title="Stop QM App selected by User from Infotainment UI." alt="" coords="439,201,613,243"/>
+<area shape="rect" id="node6" href="$mco__utils_8cpp.html#abcd741ece666318a44dddecfe1d5db1f" title=" " alt="" coords="228,201,391,243"/>
+<area shape="rect" id="node7" href="$classUserAppControlHandler.html#a405532812369082c6893c30bdae67c62" title="Initialize User App Control Handler." alt="" coords="5,201,180,243"/>
+</map>

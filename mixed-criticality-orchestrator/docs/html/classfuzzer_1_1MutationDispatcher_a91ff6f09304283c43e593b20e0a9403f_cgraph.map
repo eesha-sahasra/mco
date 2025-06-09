@@ -1,0 +1,4 @@
+<map id="fuzzer::MutationDispatcher::Mutate_AddWordFromTORC" name="fuzzer::MutationDispatcher::Mutate_AddWordFromTORC">
+<area shape="rect" id="node1" title="Mutates data by adding a word from the TORC." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$structfuzzer_1_1TableOfRecentCompares.html#accb71f8e9b6cf12e2d623ba2d24639fc" title=" " alt="" coords="264,13,525,39"/>
+</map>

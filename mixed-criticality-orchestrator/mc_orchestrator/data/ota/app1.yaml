@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: app1
+  labels:
+    app: vs
+spec:
+  nodeSelector:
+    kubernetes.io/arch: arm64
+  containers:
+  - name: vs
+    image: localhost:5000/video-streaming-qm:latest
+    envFrom:
+    - configMapRef:
+        name: ip-config
+
+    imagePullPolicy: Always
+    ports:
+    - containerPort: 5006
+    # resources:
+    #   limits:
+    #     memory: "3Gi"
+    #     cpu: "1000m"
+    #   requests:
+    #     memory: "3Gi"
+    #     cpu: "1000m"
+    

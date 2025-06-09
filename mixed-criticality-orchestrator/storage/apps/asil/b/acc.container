@@ -1,0 +1,6 @@
+[Container]
+Image=localhost/vehicle-detection:latest
+ContainerName=acc
+PublishPort=5000:5000
+Network=host
+#Exec=sleep infinity

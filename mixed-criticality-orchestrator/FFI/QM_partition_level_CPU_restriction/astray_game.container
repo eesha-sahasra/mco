@@ -1,0 +1,6 @@
+[Container]
+Image=localhost/astray-game-stress
+ContainerName=astray
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8021:8021
+Network=host

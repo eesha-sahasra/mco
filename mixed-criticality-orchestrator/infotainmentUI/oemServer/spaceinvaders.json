@@ -1,0 +1,16 @@
+{
+  "spaceinvaders": [
+    {
+      "version": "1.0.1"
+    },
+    {"category": "games"},
+    {
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfHl6c7E5Ml69OYg1_BeyIf3Hp-yirey3gg&s"
+    },
+    {
+      "yaml_path": "../../storage/apps/qm/infotainment/games/spaceinvaders.container"
+    },
+    {"resources": {"cpu":"2", "memory": "1000Mi"}},
+    {"priority":"low"}
+  ]
+}

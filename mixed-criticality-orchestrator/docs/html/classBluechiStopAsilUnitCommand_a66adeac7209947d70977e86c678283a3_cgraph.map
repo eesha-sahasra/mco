@@ -1,0 +1,5 @@
+<map id="BluechiStopAsilUnitCommand::Execute" name="BluechiStopAsilUnitCommand::Execute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,223,65"/>
+<area shape="rect" id="node2" href="$classDatabaseHandler.html#aeb2cfac9504d4c44c6f23a87cb06b75a" title="Get the singleton instance of the DatabaseHandler class." alt="" coords="297,5,519,32"/>
+<area shape="rect" id="node3" href="$classDatabaseHandler.html#a943545e8a1f0390d8e85343811ca94d7" title="Update the set of running apps in the database." alt="" coords="271,56,545,83"/>
+</map>

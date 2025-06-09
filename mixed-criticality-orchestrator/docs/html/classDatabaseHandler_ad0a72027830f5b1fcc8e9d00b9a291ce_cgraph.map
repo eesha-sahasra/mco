@@ -1,0 +1,4 @@
+<map id="DatabaseHandler::ReadData" name="DatabaseHandler::ReadData">
+<area shape="rect" id="node1" title="Read the application value from the database." alt="" coords="5,13,212,39"/>
+<area shape="rect" id="node2" href="$classDatabaseHandler.html#a3cd21a77a67fad90ab45eb30d1df2f2a" title="Check if the database server is available." alt="" coords="260,5,476,47"/>
+</map>

@@ -1,0 +1,15 @@
+{
+  "astray": [
+    {
+      "version": "1.0.0"
+    },
+    {
+      "imageUrl": "https://i.ytimg.com/vi/vZBINuM-Gmk/maxresdefault.jpg"
+    },
+    {
+      "yaml_path": "../../storage/apps/qm/infotainment/games/astray.container"
+    },
+    {"resources": {"cpu":"5", "memory": "3000Mi"}},
+    {"priority": "low"}
+  ]
+}

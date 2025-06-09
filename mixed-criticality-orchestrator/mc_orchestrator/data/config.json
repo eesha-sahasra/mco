@@ -1,0 +1,4 @@
+{
+  "container_runtime": "bluechi",
+  "ota_port_number": "6060"
+}

@@ -1,0 +1,5 @@
+<map id="checkResourceAvailability" name="checkResourceAvailability">
+<area shape="rect" id="node1" title=" " alt="" coords="228,46,421,73"/>
+<area shape="rect" id="node2" href="$classUserAppControlHandler.html#aa7090082a9d4cf39d3a6b8a1e1334a3a" title="Unpause ASIL App selected by User from Vehicle State UI." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$classUserAppControlHandler.html#a5bee2fdba62376c62ee8dd29bbb4fb6d" title="Play QM App selected by User from Infotainment UI." alt="" coords="5,71,180,112"/>
+</map>

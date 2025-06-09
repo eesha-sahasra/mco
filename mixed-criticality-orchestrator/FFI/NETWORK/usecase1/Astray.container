@@ -1,0 +1,6 @@
+[Container]
+ContainerName=Astray-game
+Image=localhost/astray-game:latest
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8021:8021
+Network=host

@@ -1,0 +1,9 @@
+[Container]
+ContainerName=Astray-cpu-stress-app
+Image=localhost/astray-full-cores-stress:latest
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8021:8021
+Network=host
+
+[Service]
+AllowedCPUs=0-1

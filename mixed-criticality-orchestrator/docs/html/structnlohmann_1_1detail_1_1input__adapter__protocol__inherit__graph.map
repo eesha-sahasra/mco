@@ -1,0 +1,7 @@
+<map id="nlohmann::detail::input_adapter_protocol" name="nlohmann::detail::input_adapter_protocol">
+<area shape="rect" id="node1" title="abstract input adapter interface" alt="" coords="309,5,517,141"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1file__input__adapter.html" title=" " alt="" coords="5,197,181,479"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1detail_1_1input__buffer__adapter.html" title="input adapter for buffer input" alt="" coords="205,189,400,487"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1detail_1_1input__stream__adapter.html" title=" " alt="" coords="425,189,626,487"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1detail_1_1wide__string__input__adapter.html" title=" " alt="" coords="651,219,869,457"/>
+</map>

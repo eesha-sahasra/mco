@@ -1,0 +1,14 @@
+<map id="DatabaseHandler::UpdateRunningApps" name="DatabaseHandler::UpdateRunningApps">
+<area shape="rect" id="node1" title="Update the set of running apps in the database." alt="" coords="535,274,809,301"/>
+<area shape="rect" id="node2" href="$classBluechiStartAsilUnitCommand.html#a302a73a45ac37466c02537edc611bb28" title=" " alt="" coords="268,5,487,47"/>
+<area shape="rect" id="node3" href="$classPodmanApplyPodCommand.html#a43bc8f6760a8e555dd27cf2340c1402f" title=" " alt="" coords="276,71,479,112"/>
+<area shape="rect" id="node4" href="$classK3sApplyPodCommand.html#ae8e51e63058a27a7062e981757e460d2" title=" " alt="" coords="290,136,465,177"/>
+<area shape="rect" id="node5" href="$classK3sDeletePodCommand.html#a659041e91526e69e7e57ce4b998a8797" title=" " alt="" coords="287,201,467,243"/>
+<area shape="rect" id="node6" href="$classPodmanDeletePodCommand.html#a4805ee3aaf4803181b34a59dc30f0b33" title=" " alt="" coords="273,267,482,308"/>
+<area shape="rect" id="node7" href="$classBluechiStopAsilUnitCommand.html#a66adeac7209947d70977e86c678283a3" title=" " alt="" coords="269,332,486,373"/>
+<area shape="rect" id="node8" href="$classBluechiStartQmUnitCommand.html#ae994396b4ea96124184f087617ebacc9" title=" " alt="" coords="268,397,487,439"/>
+<area shape="rect" id="node9" href="$classBluechiStopQmUnitCommand.html#a6a874635be3817a4da8e6aa0d7d53649" title=" " alt="" coords="269,463,485,504"/>
+<area shape="rect" id="node10" href="$classConfigHandler.html#a3917229868b75f859a0829f0cd2ae573" title="Save the app name to the database." alt="" coords="268,528,487,569"/>
+<area shape="rect" id="node11" href="$classQmOtaHandler.html#a6ccbedb2878978ac7073ef4e10be6220" title="Check for successful OTA download." alt="" coords="5,495,220,536"/>
+<area shape="rect" id="node12" href="$classRespawnPodObserver.html#a3b8bc53a9b9087d4c1a18111a33eb61d" title=" " alt="" coords="31,560,195,601"/>
+</map>

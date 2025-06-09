@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>App Viewer</title>
+    <script src="https://cdn.rawgit.com/dcodeIO/protobuf.js/6.X.X/dist/protobuf.min.js"></script>
+  </head>
+  <body>
+    <button id="getAppsButton">Get Apps</button>
+    <div id="apps"></div>
+
+    <script>
+      // Load the protobuf definitions
+      protobuf.load("../../proto/message.proto", function (err, root) {
+        if (err) throw err;
+
+        // Obtain a message type
+        var AppDetails = root.lookupType("AppDetails");
+
+        document
+          .getElementById("getAppsButton")
+          .addEventListener("click", function () {
+            fetch("/get_apps")
+              .then((response) => response.arrayBuffer())
+              .then((buffer) => {
+                var uint8View = new Uint8Array(buffer);
+                var message = AppDetails.decode(uint8View);
+                document.getElementById("apps").innerText = JSON.stringify(
+                  message,
+                  null,
+                  2
+                );
+              });
+          });
+      });
+    </script>
+  </body>
+</html>

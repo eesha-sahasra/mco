@@ -1,0 +1,7 @@
+<map id="nlohmann::detail::to_json" name="nlohmann::detail::to_json">
+<area shape="rect" id="node1" title=" " alt="" coords="268,111,455,138"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a7639e0834df2bc719a04ffea89b31abc" title="create a JSON value" alt="" coords="31,5,194,47"/>
+<area shape="rect" id="node3" href="$structnlohmann_1_1detail_1_1to__json__fn.html#aecfb5114c8a737fc89d98589482795b8" title=" " alt="" coords="36,71,189,112"/>
+<area shape="rect" id="node4" href="$structnlohmann_1_1adl__serializer.html#a01b867bd5dce5249d4f7433b8f27def6" title="convert any value type to a JSON value" alt="" coords="21,136,204,177"/>
+<area shape="rect" id="node5" href="$structns_1_1foo__serializer_3_01T_00_01typename_01std_1_1enable__if_3_01_9std_1_1is__same_3_01fo7040e43a8e428c2ddd21aad2ba9685f3.html#a9781b10849af246dc73460d3065ec917" title=" " alt="" coords="5,201,220,272"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="nlohmann::basic_json::diff" name="nlohmann::basic_json::diff">
+<area shape="rect" id="node1" title="creates a diff as a JSON patch" alt="" coords="5,357,168,399"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a9c4f3554773649beef69461a10a3de87" title="creates a diff as a JSON patch" alt="" coords="216,296,379,337"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1json__pointer.html#a8abf3577f9a0087f29a233893cdc73ad" title="escape &quot;~&quot; to &quot;~0&quot; and &quot;/&quot; to &quot;~1&quot;" alt="" coords="427,5,601,47"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1basic__json.html#a31f84ee15c4690ff705bed74736d04c6" title="explicitly create an object from an initializer list" alt="" coords="433,449,595,491"/>
+<area shape="rect" id="node13" href="$namespacenlohmann.html#ad675d1c22f5240b2b3065c241b204477" title="user&#45;defined to_string function for JSON values" alt="" coords="438,515,590,542"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#ad865d6c291b237ae508d5cb2146b5877" title="returns a const iterator to the first element" alt="" coords="433,201,595,243"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#a8dba7b7d2f38e6b0c614030aa43983f6" title="returns a const iterator to one past the last element" alt="" coords="433,267,595,308"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1basic__json.html#a13e032a02a7fd8a93fdddc2fcbc4763c" title="returns an iterator to one past the last element" alt="" coords="649,234,844,261"/>
+<area shape="rect" id="node9" href="$classnlohmann_1_1basic__json.html#a89eb3928f57903677051c80534be9cb1" title="find an element in a JSON object" alt="" coords="433,71,595,112"/>
+<area shape="rect" id="node12" href="$classnlohmann_1_1basic__json.html#a25e27ad0c6d53c01871c5485e1f75b96" title="returns the number of elements" alt="" coords="433,136,595,177"/>
+<area shape="rect" id="node14" href="$classnlohmann_1_1basic__json.html#a2b2d781d7f2a4ee41bc0016e931cadf7" title="return the type of the JSON value (explicit)" alt="" coords="433,384,595,425"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1json__pointer.html#aa7649d30da9fc10b0e20704a27aea2a9" title="replace all occurrences of a substring by another string" alt="" coords="659,5,834,47"/>
+<area shape="rect" id="node8" href="$FuzzerTracePC_8cpp.html#a1f10ac78bd11294b612636121065eb5b" title=" " alt="" coords="892,13,955,39"/>
+<area shape="rect" id="node10" href="$classnlohmann_1_1basic__json.html#af8f511af124e82e4579f444b4175787c" title="return whether value is an object" alt="" coords="665,71,828,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="nlohmann::detail::binary_writer::write_bson_unsigned" name="nlohmann::detail::binary_writer::write_bson_unsigned">
+<area shape="rect" id="node1" title="Writes a BSON element with key name and unsigned value." alt="" coords="5,103,217,144"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1out__of__range.html#a3f6d82a6f967c4728a1ec735a7867073" title=" " alt="" coords="304,44,465,85"/>
+<area shape="rect" id="node6" href="$namespacenlohmann.html#ad675d1c22f5240b2b3065c241b204477" title="user&#45;defined to_string function for JSON values" alt="" coords="309,110,461,137"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1detail_1_1binary__writer.html#a1b5b7f5c03b1f8b1f59ea61db9634108" title="Writes the given element_type and name to the output adapter." alt="" coords="265,161,504,203"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="552,5,756,47"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1detail_1_1out__of__range.html#ab5fe402019dba957558499502f0fd731" title=" " alt="" coords="565,71,743,112"/>
+<area shape="rect" id="node4" href="$namespacehttplib.html#a498c3a79825ecbcb15c52ec5fcfd5c11" title=" " alt="" coords="804,13,933,39"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1detail_1_1binary__writer.html#ab77aa48692bd4e64e4f051ce6aeb6d2d" title=" " alt="" coords="563,161,745,203"/>
+</map>

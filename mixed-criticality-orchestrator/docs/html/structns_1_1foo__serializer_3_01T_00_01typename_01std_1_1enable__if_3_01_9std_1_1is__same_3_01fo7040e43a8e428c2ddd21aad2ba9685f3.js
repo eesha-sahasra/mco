@@ -1,0 +1,5 @@
+var structns_1_1foo__serializer_3_01T_00_01typename_01std_1_1enable__if_3_01_9std_1_1is__same_3_01fo7040e43a8e428c2ddd21aad2ba9685f3 =
+[
+    [ "from_json", "structns_1_1foo__serializer_3_01T_00_01typename_01std_1_1enable__if_3_01_9std_1_1is__same_3_01fo7040e43a8e428c2ddd21aad2ba9685f3.html#a7dcfd25f328c478c9274c17bb079b018", null ],
+    [ "to_json", "structns_1_1foo__serializer_3_01T_00_01typename_01std_1_1enable__if_3_01_9std_1_1is__same_3_01fo7040e43a8e428c2ddd21aad2ba9685f3.html#a9781b10849af246dc73460d3065ec917", null ]
+];

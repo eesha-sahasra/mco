@@ -1,0 +1,18 @@
+
+# ignore all the content of build folder
+mc_orchestrator/build/*
+mc_orchestrator/response.json
+
+package-lock.json
+
+.vscode/settings.json
+
+# trying to keep only the .keep file in this folder
+!lf_orchestrator/build/.keep
+
+ui/logs/events.csv
+ui/logs/all_logs.csv
+ui/logs/data.csv
+
+vehicle_abstraction_layer/hpc_resource_utilization/target/
+!vehicle_abstraction_layer/hpc_resource_utilization/target/.keep

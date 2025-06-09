@@ -1,0 +1,6 @@
+[Container]
+Image=localhost/space-invaders-game:latest
+ContainerName=spaceinvaders
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8022:8022
+Network=host

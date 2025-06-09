@@ -1,0 +1,4 @@
+<map id="ConfigHandler::SaveFileContentToDatabase" name="ConfigHandler::SaveFileContentToDatabase">
+<area shape="rect" id="node1" title="Save app JSON file content to database." alt="" coords="308,5,536,47"/>
+<area shape="rect" id="node2" href="$classServerHandler.html#af3ecda4d745ef95296198e41ac3cf6e1" title="start LFO server" alt="" coords="5,5,260,47"/>
+</map>

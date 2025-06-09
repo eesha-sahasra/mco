@@ -1,0 +1,6 @@
+<map id="DatabaseHandler::ReadData" name="DatabaseHandler::ReadData">
+<area shape="rect" id="node1" title="Read the data from the database." alt="" coords="5,42,212,69"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a9286acdc0578fc66e9346323e69fc0e3" title="check the existence of an element in a JSON object" alt="" coords="275,5,437,47"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#a6b187a22994c12c8cae0dd5ee99dc85e" title="get special&#45;case overload" alt="" coords="260,71,452,98"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#af8f511af124e82e4579f444b4175787c" title="return whether value is an object" alt="" coords="500,5,663,47"/>
+</map>

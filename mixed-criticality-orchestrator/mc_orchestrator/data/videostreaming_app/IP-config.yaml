@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ip-config
+  labels:
+    app: vs
+data:
+  HOST_IP: 172.31.36.139

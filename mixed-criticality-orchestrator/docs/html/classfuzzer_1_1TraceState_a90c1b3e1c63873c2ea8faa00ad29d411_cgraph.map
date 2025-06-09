@@ -1,0 +1,13 @@
+<map id="fuzzer::TraceState::TraceSwitchCallback" name="fuzzer::TraceState::TraceSwitchCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,50,169,91"/>
+<area shape="rect" id="node2" href="$classfuzzer_1_1Fuzzer.html#a6b8043b43eaa243299df6d64ba8413b6" title=" " alt="" coords="734,23,915,64"/>
+<area shape="rect" id="node3" href="$classfuzzer_1_1TraceState.html#ab6f07d887ca97cdc55b629da23ea0281" title=" " alt="" coords="233,20,372,62"/>
+<area shape="rect" id="node4" href="$namespacefuzzer.html#afab785891fdb74f8fd33bca421bde935" title=" " alt="" coords="250,86,355,113"/>
+<area shape="rect" id="node5" href="$classfuzzer_1_1TraceState.html#acf2bff66ee5368a9ca0d44d2926a5d6c" title=" " alt="" coords="217,140,388,182"/>
+<area shape="rect" id="node6" href="$classfuzzer_1_1TraceState.html#a3cfaba51f138339caf55beb176fd25d2" title=" " alt="" coords="487,19,626,60"/>
+<area shape="rect" id="node7" href="$FuzzerTracePC_8cpp.html#a1f10ac78bd11294b612636121065eb5b" title=" " alt="" coords="793,150,856,177"/>
+<area shape="rect" id="node8" href="$classfuzzer_1_1Fuzzer.html#af1d13fc1411234ad0cb2b10175d71141" title=" " alt="" coords="461,84,652,126"/>
+<area shape="rect" id="node9" href="$namespacefuzzer.html#a9b4934ed79a55b68a755460b14bca579" title=" " alt="" coords="473,201,641,228"/>
+<area shape="rect" id="node10" href="$classfuzzer_1_1TraceState.html#a6271f1ea9d8d46b0dc542f25dd89dc3b" title=" " alt="" coords="436,252,677,294"/>
+<area shape="rect" id="node11" href="$classfuzzer_1_1MutationDispatcher.html#a22242737e63376b4ab6c22210c42c8ab" title=" " alt="" coords="725,252,924,294"/>
+</map>

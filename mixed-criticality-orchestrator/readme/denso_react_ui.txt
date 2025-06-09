@@ -1,0 +1,87 @@
+To run the browser based UI , follow the below steps 
+
+Open terminal 1 :
+-----------------
+
+-> Navigate to the respeted path where the repo is cloned 
+
+Repo : https://git-codecommit.ap-northeast-1.amazonaws.com/v1/repos/container-manager
+
+Go to the below path 
+
+$  cd container-manager/vehicle_abstraction_layer/hpc_resource_utilization/src
+
+then enter the below command
+
+$ cargo run
+
+----------------------------------------------------------------------------------------------
+
+Open terminal 2:
+----------------
+
+$ cd container-manager/pod_status
+
+then run the below command 
+
+$ python3 pod_status.py
+
+----------------------------------------------------------------------------------------------
+
+Open terminal 3:
+----------------
+
+Update the "kNodeName" variable with the name of the node (where the code will be executed) in mco_common.hpp file present in the below path:
+/container-manager/mc_orchestrator/common/inc/mco_common.hpp
+
+then
+
+$ cd container-manager/mc_orchestrator/build
+
+run the below command 
+
+$ ./MCO
+
+---------------------------------------------------------------------------------------------
+
+Open terminal 4:
+----------------
+
+$ redis-commander
+
+
+
+---------------------------------------------------------------------------------------------
+
+Open terminal 5:
+---------------
+
+To run the Flask server navigate to the below path 
+
+$ cd container-manager/ui/server
+
+$  python3 temp_ui_backend.py 
+
+---------------------------------------------------------------------------------------------
+
+Open terminal 6:
+----------------
+
+To run the React UI in, follow the below steps 
+
+step 1 : Navigate to the below path 
+
+$ cd container-manager/ui/client
+
+step 2: Then RUN the below command to launch the React app 
+
+$ npm start 
+
+Then , your React app will going to open in the browser 
+
+
+
+
+
+
+

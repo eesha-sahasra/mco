@@ -1,0 +1,10 @@
+<map id="nlohmann::json_pointer::pop_back" name="nlohmann::json_pointer::pop_back">
+<area shape="rect" id="node1" title="remove last reference token" alt="" coords="371,90,545,131"/>
+<area shape="rect" id="node2" href="$json__pointer____pop__back_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="208,5,263,32"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1json__pointer.html#afdaacce1edb7145e0434e014f0e8685a" title="returns the parent of this JSON pointer" alt="" coords="148,57,323,98"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1basic__json.html#a81e0c41a4a9dff4df2f6973f7f8b2a83" title="applies a JSON patch" alt="" coords="154,122,317,163"/>
+<area shape="rect" id="node8" href="$unit-json__pointer_8cpp.html#af0831fee504d3fdf4448dccb3ad079b3" title=" " alt="" coords="188,188,283,215"/>
+<area shape="rect" id="node4" href="$json__pointer____parent__pointer_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,64,80,91"/>
+<area shape="rect" id="node6" href="$diff_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,123,80,149"/>
+<area shape="rect" id="node7" href="$unit-json__patch_8cpp.html#a58658ae29d75546f62ea0ceb24fd3b20" title=" " alt="" coords="5,173,100,200"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="GetCurrentTime" name="GetCurrentTime">
+<area shape="rect" id="node1" title=" " alt="" coords="567,114,692,141"/>
+<area shape="rect" id="node2" href="$classResourceMonitorSubject.html#af753b448b8227b7488f0dde35a9aaad8" title=" " alt="" coords="308,77,519,119"/>
+<area shape="rect" id="node3" href="$mco__utils_8cpp.html#ab747dbf4aef59c2c54c746135db41210" title=" " alt="" coords="360,143,467,170"/>
+<area shape="rect" id="node4" href="$classDeletePodObserver.html#aefbbe55642d3054190461a5e6bce5d89" title=" " alt="" coords="55,5,211,47"/>
+<area shape="rect" id="node5" href="$classAvpTriggerMonitorHandler.html#aa2520c7b0dfa2fb7762e3e69025a4599" title="initialize LFO to check for pods status." alt="" coords="37,71,229,112"/>
+<area shape="rect" id="node6" href="$classResourceMonitorHandler.html#ae43ecd76d870fc12d19522507febac9d" title="initialize LFO to check for pods status." alt="" coords="41,136,224,177"/>
+<area shape="rect" id="node7" href="$classRespawnPodObserver.html#a3b8bc53a9b9087d4c1a18111a33eb61d" title=" " alt="" coords="51,201,215,243"/>
+<area shape="rect" id="node8" href="$classServerHandler.html#af3ecda4d745ef95296198e41ac3cf6e1" title="start LFO server" alt="" coords="5,267,260,308"/>
+</map>

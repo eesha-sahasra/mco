@@ -1,0 +1,3 @@
+{
+  "laneAssist": [{ "cpu": "4" }, { "memory": "4000Mi" }]
+}

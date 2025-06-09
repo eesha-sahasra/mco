@@ -1,0 +1,10 @@
+[Unit]
+Description=Podman container to demo fork bomb  
+
+[Container]
+Image=localhost/astray-infinite-process:latest
+ContainerName=astray
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8021:8021
+Network=host
+PidsLimit=10

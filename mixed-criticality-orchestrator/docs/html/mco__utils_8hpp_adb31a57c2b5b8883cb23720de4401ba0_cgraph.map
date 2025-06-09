@@ -1,0 +1,6 @@
+<map id="UpdateEvent" name="UpdateEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,112,83"/>
+<area shape="rect" id="node2" href="$classDatabaseHandler.html#ad98a598001584e3a5c4e81980a8a8719" title="Add events to the database." alt="" coords="165,5,377,32"/>
+<area shape="rect" id="node3" href="$mco__utils_8cpp.html#a1712cb19121295fe68a905b3e5c496f9" title=" " alt="" coords="208,56,333,83"/>
+<area shape="rect" id="node4" href="$classDatabaseHandler.html#aeb2cfac9504d4c44c6f23a87cb06b75a" title="Get the singleton instance of the DatabaseHandler class." alt="" coords="160,107,381,133"/>
+</map>

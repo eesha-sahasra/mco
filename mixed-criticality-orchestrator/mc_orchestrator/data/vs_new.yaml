@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: qm-pod-1-videostreaming
+  labels:
+    app: vs
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vs
+  template:
+    metadata:
+      labels:
+        app: vs
+    spec:
+      nodeSelector:
+        kubernetes.io/arch: arm64
+      containers:
+        - name: vs
+          image: localhost:5000/videostreaming:latest
+          # resources:
+          #   limits:
+          #     memory: "500Mi"
+          #     cpu: "900m"
+          #   requests:
+          #     memory: "400Mi"
+          #     cpu: "800m"
+          envFrom:
+            - configMapRef:
+                name: ip-config
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 5006

@@ -1,0 +1,11 @@
+<map id="PodmanApplyPodCommand::Execute" name="PodmanApplyPodCommand::Execute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,208,141"/>
+<area shape="rect" id="node2" href="$classDatabaseHandler.html#aeb2cfac9504d4c44c6f23a87cb06b75a" title="Get the singleton instance of the DatabaseHandler class." alt="" coords="283,5,504,32"/>
+<area shape="rect" id="node3" href="$classInvoker.html#a1459c66263ad54b3568e6b3d33d9256f" title=" " alt="" coords="333,56,454,83"/>
+<area shape="rect" id="node4" href="$classDatabaseHandler.html#a51bb2f3e9a4c847e65fdccab307a542c" title="Read the data from the database." alt="" coords="290,107,497,133"/>
+<area shape="rect" id="node8" href="$classInvoker.html#ae9f10a2487afd153bf0da69ae410a0e9" title=" " alt="" coords="310,157,477,184"/>
+<area shape="rect" id="node9" href="$classDatabaseHandler.html#a943545e8a1f0390d8e85343811ca94d7" title="Update the set of running apps in the database." alt="" coords="256,208,531,235"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1basic__json.html#a9286acdc0578fc66e9346323e69fc0e3" title="check the existence of an element in a JSON object" alt="" coords="593,70,756,111"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1basic__json.html#a6b187a22994c12c8cae0dd5ee99dc85e" title="get special&#45;case overload" alt="" coords="579,136,771,163"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1basic__json.html#af8f511af124e82e4579f444b4175787c" title="return whether value is an object" alt="" coords="819,70,981,111"/>
+</map>

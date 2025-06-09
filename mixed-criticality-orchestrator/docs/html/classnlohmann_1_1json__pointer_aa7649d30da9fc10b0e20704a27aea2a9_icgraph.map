@@ -1,0 +1,14 @@
+<map id="nlohmann::json_pointer::replace_substring" name="nlohmann::json_pointer::replace_substring">
+<area shape="rect" id="node1" title="replace all occurrences of a substring by another string" alt="" coords="804,201,979,243"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1json__pointer.html#a8abf3577f9a0087f29a233893cdc73ad" title="escape &quot;~&quot; to &quot;~0&quot; and &quot;/&quot; to &quot;~1&quot;" alt="" coords="581,168,756,209"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1json__pointer.html#ab85442d5fbcc289b79beeefc2175446f" title="unescape &quot;~1&quot; to tilde and &quot;~0&quot; to slash (order is important!)" alt="" coords="581,233,756,275"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#a9c4f3554773649beef69461a10a3de87" title="creates a diff as a JSON patch" alt="" coords="365,69,527,111"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1json__pointer.html#ab0d7759d0caa6a0c0187916da28e6ee7" title=" " alt="" coords="359,168,533,209"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#a543bd5f7490de54c875b2c0912dc9a49" title="creates a diff as a JSON patch" alt="" coords="148,5,311,47"/>
+<area shape="rect" id="node5" href="$diff_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="202,71,257,98"/>
+<area shape="rect" id="node6" href="$unit-json__patch_8cpp.html#a58658ae29d75546f62ea0ceb24fd3b20" title=" " alt="" coords="5,123,100,150"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1basic__json.html#ab838f000d76662917ffd6ec529569e03" title="return flattened JSON value" alt="" coords="148,173,311,215"/>
+<area shape="rect" id="node9" href="$flatten_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,178,80,205"/>
+<area shape="rect" id="node10" href="$unit-json__pointer_8cpp.html#a5baa6aa0f151e8bc4c7b50d6836f433d" title=" " alt="" coords="13,229,92,255"/>
+<area shape="rect" id="node12" href="$classnlohmann_1_1json__pointer.html#ae01c32c6a071c2e5198d5dfcce290e50" title="split the string input to reference tokens" alt="" coords="359,233,533,275"/>
+</map>

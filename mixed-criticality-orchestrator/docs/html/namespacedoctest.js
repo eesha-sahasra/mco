@@ -1,0 +1,28 @@
+var namespacedoctest =
+[
+    [ "detail", "namespacedoctest_1_1detail.html", "namespacedoctest_1_1detail" ],
+    [ "Approx", "classdoctest_1_1Approx.html", "classdoctest_1_1Approx" ],
+    [ "AssertData", "structdoctest_1_1AssertData.html", "structdoctest_1_1AssertData" ],
+    [ "Context", "classdoctest_1_1Context.html", "classdoctest_1_1Context" ],
+    [ "ContextOptions", "structdoctest_1_1ContextOptions.html", "structdoctest_1_1ContextOptions" ],
+    [ "CurrentTestCaseStats", "structdoctest_1_1CurrentTestCaseStats.html", "structdoctest_1_1CurrentTestCaseStats" ],
+    [ "description", "structdoctest_1_1description.html", "structdoctest_1_1description" ],
+    [ "expected_failures", "structdoctest_1_1expected__failures.html", "structdoctest_1_1expected__failures" ],
+    [ "IContextScope", "structdoctest_1_1IContextScope.html", "structdoctest_1_1IContextScope" ],
+    [ "IReporter", "structdoctest_1_1IReporter.html", "structdoctest_1_1IReporter" ],
+    [ "may_fail", "structdoctest_1_1may__fail.html", "structdoctest_1_1may__fail" ],
+    [ "MessageData", "structdoctest_1_1MessageData.html", "structdoctest_1_1MessageData" ],
+    [ "QueryData", "structdoctest_1_1QueryData.html", "structdoctest_1_1QueryData" ],
+    [ "should_fail", "structdoctest_1_1should__fail.html", "structdoctest_1_1should__fail" ],
+    [ "skip", "structdoctest_1_1skip.html", "structdoctest_1_1skip" ],
+    [ "String", "classdoctest_1_1String.html", "classdoctest_1_1String" ],
+    [ "StringMaker", "structdoctest_1_1StringMaker.html", null ],
+    [ "StringMaker< R C::* >", "structdoctest_1_1StringMaker_3_01R_01C_1_1_5_01_4.html", "structdoctest_1_1StringMaker_3_01R_01C_1_1_5_01_4" ],
+    [ "StringMaker< T * >", "structdoctest_1_1StringMaker_3_01T_01_5_01_4.html", "structdoctest_1_1StringMaker_3_01T_01_5_01_4" ],
+    [ "SubcaseSignature", "structdoctest_1_1SubcaseSignature.html", "structdoctest_1_1SubcaseSignature" ],
+    [ "test_suite", "structdoctest_1_1test__suite.html", "structdoctest_1_1test__suite" ],
+    [ "TestCaseData", "structdoctest_1_1TestCaseData.html", "structdoctest_1_1TestCaseData" ],
+    [ "TestCaseException", "structdoctest_1_1TestCaseException.html", "structdoctest_1_1TestCaseException" ],
+    [ "TestRunStats", "structdoctest_1_1TestRunStats.html", "structdoctest_1_1TestRunStats" ],
+    [ "timeout", "structdoctest_1_1timeout.html", "structdoctest_1_1timeout" ]
+];

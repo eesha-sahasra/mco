@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,60,73"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a2b9852390abb4b1ef5fac6984e2fc0f3" title="return whether value is a number" alt="" coords="108,39,271,80"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#a33b4bf898b857c962e798fc7f6e86e70" title="return whether value is a floating&#45;point number" alt="" coords="319,5,481,47"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#abac8af76067f1e8fdca9052882c74428" title="return whether value is an integer number" alt="" coords="319,71,481,112"/>
+</map>

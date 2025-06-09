@@ -1,0 +1,30 @@
+<map id="nlohmann::detail::binary_reader::exception_message" name="nlohmann::detail::binary_reader::exception_message">
+<area shape="rect" id="node1" title=" " alt="" coords="2423,595,2632,637"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1binary__reader.html#a46bf64d7193eea97cac6dd4d4abdb4fa" title="Parses a zero&#45;terminated string of length len from the BSON input." alt="" coords="1711,107,1894,149"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1detail_1_1binary__reader.html#ab94a54d6e595c2620b07589cf4116256" title=" " alt="" coords="367,286,548,327"/>
+<area shape="rect" id="node10" href="$classnlohmann_1_1detail_1_1binary__reader.html#acca76844160000e1d8215cb5c7afbba1" title="reads a CBOR string" alt="" coords="1712,521,1893,562"/>
+<area shape="rect" id="node12" href="$classnlohmann_1_1detail_1_1binary__reader.html#a2fc47768d484a22fcd04e20106da1399" title=" " alt="" coords="1151,545,1357,586"/>
+<area shape="rect" id="node14" href="$classnlohmann_1_1detail_1_1binary__reader.html#a5526ed98ca4c436cbae6f8a77ea207b8" title="reads a MessagePack string" alt="" coords="1697,377,1908,418"/>
+<area shape="rect" id="node16" href="$classnlohmann_1_1detail_1_1binary__reader.html#a81611d8a5faec1348d31f7e98fcd05ef" title=" " alt="" coords="1163,337,1345,393"/>
+<area shape="rect" id="node18" href="$classnlohmann_1_1detail_1_1binary__reader.html#a4eae4604064b5dfe6d04e42ffc9e0753" title="determine the type and size for a container" alt="" coords="1423,966,1641,1007"/>
+<area shape="rect" id="node20" href="$classnlohmann_1_1detail_1_1binary__reader.html#a5f425199a77f403e32f076ff8487f853" title=" " alt="" coords="883,950,1077,991"/>
+<area shape="rect" id="node23" href="$classnlohmann_1_1detail_1_1binary__reader.html#a435be58e83c8491556d8f1a1b3439155" title=" " alt="" coords="1689,857,1916,898"/>
+<area shape="rect" id="node24" href="$classnlohmann_1_1detail_1_1binary__reader.html#a2e01eab458020d18c975e8df55b20eca" title="reads a UBJSON string" alt="" coords="1705,739,1900,781"/>
+<area shape="rect" id="node25" href="$classnlohmann_1_1detail_1_1binary__reader.html#a91dd7341d9d74c58866877ddfe58dd03" title=" " alt="" coords="2193,511,2375,553"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1detail_1_1binary__reader.html#a2fdd24de008063e7fef896327daeffa1" title="Read a BSON document element of the given element_type." alt="" coords="1425,43,1639,99"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1detail_1_1binary__reader.html#a7316619ace9efdc718d04e7b8f807e1e" title="Read a BSON element list (as specified in the BSON&#45;spec)" alt="" coords="1133,151,1375,193"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1detail_1_1binary__reader.html#a650dd6f9f05e86eb62cd4717301a5ffa" title="Reads an array from the BSON input and passes it to the SAX&#45;parser." alt="" coords="883,151,1077,193"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1detail_1_1binary__reader.html#a950f6ef800421fef9499af1c4c8918f5" title="Reads in a BSON&#45;object and passes it to the SAX&#45;parser." alt="" coords="875,86,1085,127"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1basic__json.html#a8a3dd150c2d1f0df3502d937de0871db" title="generate SAX events" alt="" coords="148,286,311,327"/>
+<area shape="rect" id="node9" href="$unit-bson_8cpp.html#a73301d5e6d0f638e973f748287501dd6" title=" " alt="" coords="5,293,100,320"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1detail_1_1binary__reader.html#a2fcc776cd2c7bb52bbc511e97d36978a" title=" " alt="" coords="1441,545,1623,586"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1detail_1_1binary__reader.html#ac3dc99d36754aa0beac506b30604a8ed" title=" " alt="" coords="889,545,1071,586"/>
+<area shape="rect" id="node15" href="$classnlohmann_1_1detail_1_1binary__reader.html#ad1190bb3499e243b0bbf795743a35563" title=" " alt="" coords="1425,377,1639,418"/>
+<area shape="rect" id="node17" href="$classnlohmann_1_1detail_1_1binary__reader.html#a09d3eed7523da6f61e7ffa98823aae2b" title=" " alt="" coords="877,345,1083,386"/>
+<area shape="rect" id="node19" href="$classnlohmann_1_1detail_1_1binary__reader.html#a4e8ef9561d4403ea68e3c2712fd289e2" title=" " alt="" coords="1159,966,1349,1007"/>
+<area shape="rect" id="node21" href="$classnlohmann_1_1detail_1_1binary__reader.html#ad0932dd568fcbbd2b4c2ccf9122544a5" title=" " alt="" coords="359,950,556,991"/>
+<area shape="rect" id="node22" href="$classnlohmann_1_1detail_1_1binary__reader.html#af60c6bba6f1301cb02e0186c99e25751" title=" " alt="" coords="604,879,827,921"/>
+<area shape="rect" id="node26" href="$classnlohmann_1_1detail_1_1binary__reader.html#a075d20a35a09496c504c7dff135823ed" title="Parses a C&#45;style string from the BSON input." alt="" coords="1964,259,2145,301"/>
+<area shape="rect" id="node27" href="$classnlohmann_1_1detail_1_1binary__reader.html#a161cda5919ea2436b7999c2a76656aba" title=" " alt="" coords="1964,654,2145,695"/>
+<area shape="rect" id="node28" href="$classnlohmann_1_1detail_1_1binary__reader.html#a1f4b5da029a561c8711426b0a7316ec6" title="create a string by reading characters from the input" alt="" coords="1964,486,2145,527"/>
+</map>

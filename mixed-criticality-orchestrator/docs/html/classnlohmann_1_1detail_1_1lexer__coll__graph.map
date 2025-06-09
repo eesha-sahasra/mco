@@ -1,0 +1,8 @@
+<map id="nlohmann::detail::lexer&lt; BasicJsonType &gt;" name="nlohmann::detail::lexer&lt; BasicJsonType &gt;">
+<area shape="rect" id="node1" title="lexical analysis" alt="" coords="313,388,504,1404"/>
+<area shape="rect" id="node2" href="$structstd_1_1char__traits.html" title=" " alt="" coords="5,226,183,303"/>
+<area shape="rect" id="node3" href="$structnlohmann_1_1detail_1_1position__t.html" title="struct to capture the start position of the current token" alt="" coords="207,204,411,325"/>
+<area shape="rect" id="node4" title=" " alt="" coords="435,226,585,303"/>
+<area shape="rect" id="node5" title=" " alt="" coords="609,219,776,311"/>
+<area shape="rect" id="node6" href="$structnlohmann_1_1detail_1_1input__adapter__protocol.html" title="abstract input adapter interface" alt="" coords="589,5,797,141"/>
+</map>

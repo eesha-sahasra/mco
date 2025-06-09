@@ -1,0 +1,12 @@
+<map id="nlohmann::detail::binary_reader::get_string" name="nlohmann::detail::binary_reader::get_string">
+<area shape="rect" id="node1" title="create a string by reading characters from the input" alt="" coords="5,101,187,143"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1binary__reader.html#af70e7d5f19a2ee196e24f58acf579411" title="get next character from the input" alt="" coords="235,68,416,109"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1detail_1_1binary__reader.html#a91dd7341d9d74c58866877ddfe58dd03" title=" " alt="" coords="235,133,416,175"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1detail_1_1parse__error.html#a137ea4d27de45d8a844fd13451d40f3d" title="create a parse error exception" alt="" coords="481,85,657,127"/>
+<area shape="rect" id="node9" href="$classnlohmann_1_1detail_1_1binary__reader.html#a82b86133c98a0565446a44dfd3e418e6" title=" " alt="" coords="464,165,673,207"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="721,5,925,47"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1detail_1_1parse__error.html#a0ea816ea3521d7109407948cb1b850f7" title=" " alt="" coords="735,71,911,112"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1detail_1_1parse__error.html#aefe74adeaa48781464ba2fd2ec63d221" title=" " alt="" coords="735,136,911,177"/>
+<area shape="rect" id="node6" href="$namespacehttplib.html#a498c3a79825ecbcb15c52ec5fcfd5c11" title=" " alt="" coords="973,78,1103,105"/>
+<area shape="rect" id="node10" href="$FuzzerTracePC_8cpp.html#a1f10ac78bd11294b612636121065eb5b" title=" " alt="" coords="792,202,855,229"/>
+</map>

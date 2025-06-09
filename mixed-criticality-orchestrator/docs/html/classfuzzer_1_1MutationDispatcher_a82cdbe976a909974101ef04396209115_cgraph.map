@@ -1,0 +1,6 @@
+<map id="fuzzer::MutationDispatcher::Mutate_InsertByte" name="fuzzer::MutationDispatcher::Mutate_InsertByte">
+<area shape="rect" id="node1" title="Mutates data by inserting a byte." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$namespacefuzzer.html#afbf5901773bce162915317caf3f15cfe" title=" " alt="" coords="252,13,372,39"/>
+<area shape="rect" id="node3" href="$classfuzzer_1_1Random.html#ad1b676d839fb8857db1e222f4c8d66a8" title=" " alt="" coords="420,13,615,39"/>
+<area shape="rect" id="node4" href="$classfuzzer_1_1Random.html#afe62c39a4f5590cf858998e73aad3a23" title=" " alt="" coords="663,13,828,39"/>
+</map>

@@ -1,0 +1,4 @@
+{
+    "rearcamera": [{"resources": {"cpu":"1", "memory": "1000Mi"}}, {"yaml_path": "../../storage/apps/asil/b/rearcamera.container"}]
+  }
+  

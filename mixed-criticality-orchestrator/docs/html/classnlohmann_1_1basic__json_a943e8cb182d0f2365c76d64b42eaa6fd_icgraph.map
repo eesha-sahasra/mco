@@ -1,0 +1,9 @@
+<map id="nlohmann::basic_json::is_boolean" name="nlohmann::basic_json::is_boolean">
+<area shape="rect" id="node1" title="return whether value is a boolean" alt="" coords="359,136,521,177"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#ac686d87a2261f85f1df97035b14a6e3a" title="get a boolean (explicit)" alt="" coords="148,5,311,47"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#ab1678fb6723faf020a15300c4f6b98f5" title="get a pointer to the value (boolean)" alt="" coords="148,71,311,112"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#a6362b88718eb5c6d4fed6a61eed44b95" title="return whether type is primitive" alt="" coords="148,136,311,177"/>
+<area shape="rect" id="node6" href="$unit-inspection_8cpp.html#a7c45242f718e95a5a52e19e456f8e228" title=" " alt="" coords="5,198,100,225"/>
+<area shape="rect" id="node7" href="$is__boolean_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="202,253,257,279"/>
+<area shape="rect" id="node5" href="$is__primitive_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,143,80,170"/>
+</map>

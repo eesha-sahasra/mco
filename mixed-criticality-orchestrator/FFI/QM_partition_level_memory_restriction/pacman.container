@@ -1,0 +1,6 @@
+[Container]
+Image=localhost/pacman-mem-full-stress
+ContainerName=pacman
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8023:8023
+Network=host

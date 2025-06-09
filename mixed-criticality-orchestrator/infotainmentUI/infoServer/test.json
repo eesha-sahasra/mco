@@ -1,0 +1,36 @@
+[
+    {
+        "vin": "066139B3C96B",
+        "downloaded_games":[],
+        "recommended_games":[
+            {
+                "name": "spaceinvaders",
+                "version": "1.0.0",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfHl6c7E5Ml69OYg1_BeyIf3Hp-yirey3gg&s",
+                "updateStatus":{
+                    "isAvailable":false,
+                    "newVersion":null
+                }
+            },
+            {
+                "name": "pacman",
+                "version": "1.0.0",
+                "imageUrl": "https://www.fizzcreations.com/wp-content/uploads/2020/01/PAC-MAN-Banner.jpg",
+                "updateStatus":{
+                    "isAvailable":false,
+                    "newVersion":null
+                }
+            },
+            {
+                "name": "astray",
+                "version": "1.0.0",
+                "imageUrl": "https://i.ytimg.com/vi/vZBINuM-Gmk/maxresdefault.jpg",
+                "updateStatus":{
+                    "isAvailable":false,
+                    "newVersion":null
+                }
+            }
+        ],
+        "manifest_version": "5.0.4"
+    }
+]

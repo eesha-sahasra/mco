@@ -1,0 +1,5 @@
+[Container]
+Image=localhost/netflix
+ContainerName=netflix
+PublishPort=8024:8024
+Network=host

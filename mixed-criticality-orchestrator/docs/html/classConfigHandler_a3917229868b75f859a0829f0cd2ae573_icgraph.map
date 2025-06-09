@@ -1,0 +1,5 @@
+<map id="ConfigHandler::SaveAppNameToDatabase" name="ConfigHandler::SaveAppNameToDatabase">
+<area shape="rect" id="node1" title="Save the app name to the database." alt="" coords="268,39,487,80"/>
+<area shape="rect" id="node2" href="$classQmOtaHandler.html#a6ccbedb2878978ac7073ef4e10be6220" title="Check for successful OTA download." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node3" href="$classRespawnPodObserver.html#a3b8bc53a9b9087d4c1a18111a33eb61d" title=" " alt="" coords="31,71,195,112"/>
+</map>

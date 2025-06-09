@@ -1,0 +1,39 @@
+<map id="nlohmann::basic_json::is_array" name="nlohmann::basic_json::is_array">
+<area shape="rect" id="node1" title="return whether value is an array" alt="" coords="788,606,951,647"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a73ae333487310e3302135189ce8ff5d8" title="access specified array element with bounds checking" alt="" coords="556,81,740,108"/>
+<area shape="rect" id="node6" href="$unionnlohmann_1_1basic__json_1_1json__value.html#ad54d0055a5cbb83b7ebe9c0950afd398" title=" " alt="" coords="567,195,729,237"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1basic__json.html#abf29131f898b05aad2c01a9c80e7a002" title="add an object to an array" alt="" coords="567,390,729,431"/>
+<area shape="rect" id="node10" href="$classnlohmann_1_1basic__json.html#a88cbcefe9a3f4d294bed0653550a5cb9" title="remove element from a JSON array given an index" alt="" coords="567,573,729,614"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1basic__json.html#a0a9c36d4d94ef5d611c0204bc7e4d37f" title="get a pointer to the value (array)" alt="" coords="567,638,729,679"/>
+<area shape="rect" id="node12" href="$classnlohmann_1_1basic__json.html#a0136728f5db69d4051c77b94307abd6c" title="inserts element" alt="" coords="567,325,729,366"/>
+<area shape="rect" id="node15" href="$classnlohmann_1_1basic__json.html#a81e0c41a4a9dff4df2f6973f7f8b2a83" title="applies a JSON patch" alt="" coords="315,393,478,434"/>
+<area shape="rect" id="node18" href="$classnlohmann_1_1basic__json.html#a9f68a0af820c3ced7f9d17851ce4c22d" title="return whether type is structured" alt="" coords="567,703,729,745"/>
+<area shape="rect" id="node20" href="$unit-inspection_8cpp.html#a7c45242f718e95a5a52e19e456f8e228" title=" " alt="" coords="349,793,444,820"/>
+<area shape="rect" id="node21" href="$is__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="621,820,675,847"/>
+<area shape="rect" id="node22" href="$classnlohmann_1_1basic__json.html#ac871e3b03fb2eeca9a8de4db2bea760f" title="access specified array element" alt="" coords="567,871,729,913"/>
+<area shape="rect" id="node26" href="$classnlohmann_1_1basic__json.html#ac8e523ddc8c2dd7e5d2daf0d49a9c0d7" title="add an object to an array" alt="" coords="567,507,729,549"/>
+<area shape="rect" id="node36" href="$unit-json__pointer_8cpp.html#a4398bc973b4627d8c7ca2fe8cde291ed" title=" " alt="" coords="609,937,687,964"/>
+<area shape="rect" id="node37" href="$classnlohmann_1_1basic__json.html#a65b0a24e1361a030ad0a661de22f6c8e" title="exchanges the values" alt="" coords="567,989,729,1030"/>
+<area shape="rect" id="node3" href="$at____object__t__key__type_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="369,5,424,32"/>
+<area shape="rect" id="node4" href="$unit-json__pointer_8cpp.html#a2cdca18b19a9ef7222b082a3723b5454" title=" " alt="" coords="357,56,436,83"/>
+<area shape="rect" id="node5" href="$unit-bson_8cpp.html#a4f9ffa47724af1f2b49e0204497d0e07" title=" " alt="" coords="349,107,444,133"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1basic__json.html#aba01953d5d90e676d504863b8d9fdde5" title="destructor" alt="" coords="315,158,478,199"/>
+<area shape="rect" id="node9" href="$unit-modifiers_8cpp.html#ae2e88fedf427cb288c85ef149fe2214a" title=" " alt="" coords="349,341,444,368"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1basic__json.html#a1ecce113ff11dd294689ee4d45cbb855" title="inserts element" alt="" coords="315,275,478,317"/>
+<area shape="rect" id="node14" href="$insert_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="369,224,424,251"/>
+<area shape="rect" id="node16" href="$diff_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="94,375,149,401"/>
+<area shape="rect" id="node17" href="$unit-json__patch_8cpp.html#a58658ae29d75546f62ea0ceb24fd3b20" title=" " alt="" coords="74,425,169,452"/>
+<area shape="rect" id="node19" href="$is__structured_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="369,743,424,769"/>
+<area shape="rect" id="node23" href="$classnlohmann_1_1basic__json.html#a7c43ed2a3004c1fa9543913f37b9fca9" title="applies a JSON Merge Patch" alt="" coords="315,871,478,913"/>
+<area shape="rect" id="node24" href="$merge__patch_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="94,853,149,880"/>
+<area shape="rect" id="node25" href="$unit-merge__patch_8cpp.html#acda8f4852a31243aeb6390718cea13b5" title=" " alt="" coords="74,904,169,931"/>
+<area shape="rect" id="node27" href="$classDatabaseHandler.html#a7a38f8acc49ef0b1418716fa7ebf824e" title="Read the data from the database." alt="" coords="285,641,508,668"/>
+<area shape="rect" id="node30" href="$mco__utils_8cpp.html#a38abadf67ee2fe7e5e5919a2714d3561" title=" " alt="" coords="300,692,493,719"/>
+<area shape="rect" id="node33" href="$push__back____initializer__list_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="369,459,424,485"/>
+<area shape="rect" id="node34" href="$classnlohmann_1_1basic__json.html#aea1085f2d35cc0e1ce119cf0110119e6" title="add an object to an array" alt="" coords="315,510,478,551"/>
+<area shape="rect" id="node35" href="$classnlohmann_1_1basic__json.html#a1be31ef2d2934d37a818083a4af44f99" title="add an object to an object" alt="" coords="315,575,478,617"/>
+<area shape="rect" id="node28" href="$classQmOtaHandler.html#a6ccbedb2878978ac7073ef4e10be6220" title="Check for successful OTA download." alt="" coords="14,571,229,613"/>
+<area shape="rect" id="node29" href="$classConfigHandler.html#a969e3ca03c0a638d455ac8935522aaef" title="Save the initial JSON file content to the database." alt="" coords="5,637,237,664"/>
+<area shape="rect" id="node31" href="$classUserAppControlHandler.html#aa7090082a9d4cf39d3a6b8a1e1334a3a" title="Unpause ASIL App selected by User from Vehicle State UI." alt="" coords="34,689,209,730"/>
+<area shape="rect" id="node32" href="$classUserAppControlHandler.html#a5bee2fdba62376c62ee8dd29bbb4fb6d" title="Play QM App selected by User from Infotainment UI." alt="" coords="34,754,209,795"/>
+</map>

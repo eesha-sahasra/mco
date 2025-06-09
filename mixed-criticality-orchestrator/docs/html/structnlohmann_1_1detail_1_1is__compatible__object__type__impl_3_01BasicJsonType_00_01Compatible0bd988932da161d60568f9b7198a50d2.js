@@ -1,0 +1,6 @@
+var structnlohmann_1_1detail_1_1is__compatible__object__type__impl_3_01BasicJsonType_00_01Compatible0bd988932da161d60568f9b7198a50d2 =
+[
+    [ "object_t", "structnlohmann_1_1detail_1_1is__compatible__object__type__impl_3_01BasicJsonType_00_01Compatible0bd988932da161d60568f9b7198a50d2.html#a551e9ee372c1b24b632e6b668c231a62", null ],
+    [ "object_t", "structnlohmann_1_1detail_1_1is__compatible__object__type__impl_3_01BasicJsonType_00_01Compatible0bd988932da161d60568f9b7198a50d2.html#a551e9ee372c1b24b632e6b668c231a62", null ],
+    [ "value", "structnlohmann_1_1detail_1_1is__compatible__object__type__impl_3_01BasicJsonType_00_01Compatible0bd988932da161d60568f9b7198a50d2.html#a620adc0651e014fbd6a87667d2e7885f", null ]
+];

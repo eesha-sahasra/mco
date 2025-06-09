@@ -1,0 +1,5 @@
+<map id="UserAppControlHandler::StopQmApp" name="UserAppControlHandler::StopQmApp">
+<area shape="rect" id="node1" title="Stop QM App selected by User from Infotainment UI." alt="" coords="439,5,613,47"/>
+<area shape="rect" id="node2" href="$mco__utils_8cpp.html#abcd741ece666318a44dddecfe1d5db1f" title=" " alt="" coords="228,5,391,47"/>
+<area shape="rect" id="node3" href="$classUserAppControlHandler.html#a405532812369082c6893c30bdae67c62" title="Initialize User App Control Handler." alt="" coords="5,5,180,47"/>
+</map>

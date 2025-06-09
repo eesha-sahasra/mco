@@ -1,0 +1,16 @@
+<map id="nlohmann::basic_json::cend" name="nlohmann::basic_json::cend">
+<area shape="rect" id="node1" title="returns a const iterator to one past the last element" alt="" coords="459,195,621,236"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a83fe4a151b3a591f357527d5d9aa1b9f" title="access the last element" alt="" coords="232,5,395,47"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#a1e0769d22d54573f294da0e5c6abc9de" title="returns a const reverse iterator to the last element" alt="" coords="232,71,395,112"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1basic__json.html#a9c4f3554773649beef69461a10a3de87" title="creates a diff as a JSON patch" alt="" coords="232,136,395,177"/>
+<area shape="rect" id="node10" href="$classnlohmann_1_1basic__json.html#a1c15707055088cd5436ae91db72cbe67" title="returns a const iterator to one past the last element" alt="" coords="216,202,411,229"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1basic__json.html#ae625a0647486edf2bb38c849ca67f934" title="find an element in a JSON object" alt="" coords="232,253,395,295"/>
+<area shape="rect" id="node12" href="$unit-algorithms_8cpp.html#abec8aad08c60a897bdb39a7a1adf9901" title=" " alt="" coords="266,319,361,346"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1basic__json.html#a1cfa9ae5e7c2434cab4cfe69bffffe11" title="updates a JSON object from another object, overwriting existing keys" alt="" coords="232,371,395,412"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#a515e7618392317dbf4b72d3e18bf2ab2" title="returns a const reverse iterator to the last element" alt="" coords="5,12,168,53"/>
+<area shape="rect" id="node5" href="$unit-capacity_8cpp.html#aa7cd27113fe11aadbd2fc85683fdb99d" title=" " alt="" coords="39,78,134,105"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1basic__json.html#a543bd5f7490de54c875b2c0912dc9a49" title="creates a diff as a JSON patch" alt="" coords="5,129,168,171"/>
+<area shape="rect" id="node8" href="$diff_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="59,195,114,222"/>
+<area shape="rect" id="node9" href="$unit-json__patch_8cpp.html#a58658ae29d75546f62ea0ceb24fd3b20" title=" " alt="" coords="39,246,134,273"/>
+<area shape="rect" id="node14" href="$unit-modifiers_8cpp.html#ae2e88fedf427cb288c85ef149fe2214a" title=" " alt="" coords="39,378,134,405"/>
+</map>

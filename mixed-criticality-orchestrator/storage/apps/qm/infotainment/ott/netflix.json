@@ -1,0 +1,17 @@
+{
+    "netflix": [
+      {
+        "version": "1.0.1"
+      },
+      {
+        "category": "ott"},
+      {
+        "imageUrl": "https://www.fizzcreations.com/wp-content/uploads/2020/01/PAC-MAN-Banner.jpg"
+      },
+      {
+        "yaml_path": "../../storage/apps/qm/infotainment/ott/netflix.container"
+      },
+      {"resources": {"cpu":"2", "memory": "1000Mi"}},
+      {"priority":"medium"}
+    ]
+  }

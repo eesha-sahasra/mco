@@ -1,0 +1,17 @@
+<map id="SECTION" name="SECTION">
+<area shape="rect" id="node1" title=" " alt="" coords="5,323,84,350"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a73ae333487310e3302135189ce8ff5d8" title="access specified array element with bounds checking" alt="" coords="132,206,316,233"/>
+<area shape="rect" id="node12" href="$unit-json__pointer_8cpp.html#af5211a60c46b6b8fa7f4771202ca8483" title=" " alt="" coords="191,294,257,321"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1basic__json.html#a9286acdc0578fc66e9346323e69fc0e3" title="check the existence of an element in a JSON object" alt="" coords="143,345,305,387"/>
+<area shape="rect" id="node15" href="$unit-json__pointer_8cpp.html#a3a1debb8d350d14ee2ce8f7e8efee8fa" title=" " alt="" coords="185,411,263,438"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1detail_1_1type__error.html#aecc083aea4b698c33d042670ba50c10f" title=" " alt="" coords="364,39,533,80"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1detail_1_1out__of__range.html#a3f6d82a6f967c4728a1ec735a7867073" title=" " alt="" coords="368,104,529,145"/>
+<area shape="rect" id="node9" href="$classnlohmann_1_1basic__json.html#aef9ce5dd2381caee1f8ddcdb5bdd9c65" title="return whether value is an array" alt="" coords="367,169,530,211"/>
+<area shape="rect" id="node10" href="$namespacenlohmann.html#ad675d1c22f5240b2b3065c241b204477" title="user&#45;defined to_string function for JSON values" alt="" coords="373,235,525,262"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1basic__json.html#ad14563c53cf7ca9189bc164082367bf3" title="return the type as string" alt="" coords="367,287,530,328"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="581,71,785,112"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1detail_1_1type__error.html#aa01edaa0bf18b853368f0b900e485cd7" title=" " alt="" coords="599,5,768,47"/>
+<area shape="rect" id="node5" href="$namespacehttplib.html#a498c3a79825ecbcb15c52ec5fcfd5c11" title=" " alt="" coords="833,78,963,105"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1detail_1_1out__of__range.html#ab5fe402019dba957558499502f0fd731" title=" " alt="" coords="594,136,773,177"/>
+<area shape="rect" id="node14" href="$classnlohmann_1_1basic__json.html#af8f511af124e82e4579f444b4175787c" title="return whether value is an object" alt="" coords="367,352,530,393"/>
+</map>

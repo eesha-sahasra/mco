@@ -1,0 +1,4 @@
+<map id="fuzzer::MutationDispatcher::Mutate_ChangeBinaryInteger" name="fuzzer::MutationDispatcher::Mutate_ChangeBinaryInteger">
+<area shape="rect" id="node1" title="Change a 1&#45;, 2&#45;, 4&#45;, or 8&#45;byte integer in interesting ways." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$FuzzerTracePC_8cpp.html#a1f10ac78bd11294b612636121065eb5b" title=" " alt="" coords="273,13,336,39"/>
+</map>

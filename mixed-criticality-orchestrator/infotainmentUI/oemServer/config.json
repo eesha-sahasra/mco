@@ -1,0 +1,24 @@
+{
+  "parameters": {
+    "serverDomain": "https://wipro-esync.excelfore.com",
+    "oktaURL": "https://excelfore-global.okta.com"
+  },
+  "credentials": {
+    "username": "prinsha.p51@wipro.com",
+    "password": "Syex4ot@"
+  },
+  "vehicle": {
+    "vin": "066139B3C96B",
+    "id": "066139B3C96B"
+  },
+  "campaign_info": {
+    "name": "Infotainment Game",
+    "description": "Infotainment Game Download",
+    "package_id": 2739
+  },
+  "date": {
+    "startDay": "2024-06-10",
+    "endDay": "2024-06-11"
+  }
+}
+

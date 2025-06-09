@@ -1,0 +1,10 @@
+<map id="fuzzer::InputCorpus" name="fuzzer::InputCorpus">
+<area shape="rect" id="node1" title=" " alt="" coords="184,543,396,987"/>
+<area shape="rect" id="node2" title=" " alt="" coords="35,373,182,465"/>
+<area shape="rect" id="node3" href="$structfuzzer_1_1InputInfo.html" title=" " alt="" coords="5,160,212,311"/>
+<area shape="rect" id="node4" title=" " alt="" coords="25,13,192,90"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="312,197,399,274"/>
+<area shape="rect" id="node7" title=" " alt="" coords="355,373,497,465"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="286,5,425,97"/>
+<area shape="rect" id="node8" title=" " alt="" coords="522,381,687,458"/>
+</map>

@@ -1,0 +1,30 @@
+[
+    {
+        "vin": "066139B3C96B",
+        "games": [
+            {
+                "name": "spaceinvaders",
+                "version": "1.0.0",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfHl6c7E5Ml69OYg1_BeyIf3Hp-yirey3gg&s",
+                "cpu": "3",
+                "memory": "1000Mi"
+            },
+            {
+                "name": "pacman",
+                "version": "1.0.0",
+                "imageUrl": "https://www.fizzcreations.com/wp-content/uploads/2020/01/PAC-MAN-Banner.jpg",
+                "cpu": "3",
+                "memory": "1000Mi"
+            },
+            {
+                "name": "astray",
+                "version": "1.0.0",
+                "imageUrl": "https://i.ytimg.com/vi/vZBINuM-Gmk/maxresdefault.jpg",
+                "cpu": "3",
+                "memory": "1000Mi"
+            }
+        ],
+        "music": [],
+        "ott": []
+    }
+]

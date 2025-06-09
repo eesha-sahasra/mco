@@ -1,0 +1,8 @@
+<map id="fuzzer::RandCh" name="fuzzer::RandCh">
+<area shape="rect" id="node1" title=" " alt="" coords="355,78,475,105"/>
+<area shape="rect" id="node2" href="$classfuzzer_1_1MutationDispatcher.html#a3edae850d46dd6b8524c2f04b2c0e0b1" title="Mutates data by chanding one byte." alt="" coords="108,5,307,47"/>
+<area shape="rect" id="node4" href="$classfuzzer_1_1MutationDispatcher.html#a82cdbe976a909974101ef04396209115" title="Mutates data by inserting a byte." alt="" coords="108,71,307,112"/>
+<area shape="rect" id="node6" href="$classfuzzer_1_1MutationDispatcher.html#aba5f8a20129a3fcdff37226e471d1a33" title=" " alt="" coords="108,136,307,177"/>
+<area shape="rect" id="node3" href="$FuzzerUnittest_8cpp.html#a33ed921173886eb5f10cb05e2beafc8b" title=" " alt="" coords="5,13,60,39"/>
+<area shape="rect" id="node5" href="$FuzzerUnittest_8cpp.html#a156e979cefb0dda232dd8c36ef52647b" title=" " alt="" coords="5,78,60,105"/>
+</map>

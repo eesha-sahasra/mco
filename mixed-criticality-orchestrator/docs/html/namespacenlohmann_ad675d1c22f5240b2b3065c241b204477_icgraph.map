@@ -1,0 +1,34 @@
+<map id="nlohmann::to_string" name="nlohmann::to_string">
+<area shape="rect" id="node1" title="user&#45;defined to_string function for JSON values" alt="" coords="479,784,631,811"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a73ae333487310e3302135189ce8ff5d8" title="access specified array element with bounds checking" alt="" coords="231,56,415,83"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1detail_1_1binary__writer.html#af08f9302a02516ff8cf358a99aaa1ddf" title=" " alt="" coords="217,107,430,149"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1detail_1_1binary__writer.html#a5bae2f1db2c511b869dffaddf15a1653" title=" " alt="" coords="233,173,414,229"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1detail_1_1parse__error.html#a9fd60ad6bce80fd99686ad332faefd37" title=" " alt="" coords="235,254,411,295"/>
+<area shape="rect" id="node9" href="$classnlohmann_1_1basic__json.html#a9c4f3554773649beef69461a10a3de87" title="creates a diff as a JSON patch" alt="" coords="242,319,405,361"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1detail_1_1serializer.html#ac1f8d1165b44149bd8be397dce68ea05" title="dump escaped string" alt="" coords="223,450,423,491"/>
+<area shape="rect" id="node14" href="$classnlohmann_1_1basic__json.html#a88cbcefe9a3f4d294bed0653550a5cb9" title="remove element from a JSON array given an index" alt="" coords="242,515,405,557"/>
+<area shape="rect" id="node15" href="$classnlohmann_1_1json__pointer.html#ab0d7759d0caa6a0c0187916da28e6ee7" title=" " alt="" coords="236,581,411,622"/>
+<area shape="rect" id="node16" href="$classnlohmann_1_1detail_1_1binary__reader.html#a46bf64d7193eea97cac6dd4d4abdb4fa" title="Parses a zero&#45;terminated string of length len from the BSON input." alt="" coords="232,646,415,687"/>
+<area shape="rect" id="node17" href="$classnlohmann_1_1json__pointer.html#a366d68a67e40d86676d3bdb52e167294" title=" " alt="" coords="236,711,411,753"/>
+<area shape="rect" id="node18" href="$classnlohmann_1_1json__pointer.html#ad6a01f8e1556eef68e5a49b33fef1548" title="return a const reference to the pointed to value" alt="" coords="236,777,411,818"/>
+<area shape="rect" id="node19" href="$classnlohmann_1_1basic__json.html#a677318a34ade7f8177a2784c06aa3671" title="returns version information on the library" alt="" coords="242,842,405,883"/>
+<area shape="rect" id="node22" href="$classnlohmann_1_1detail_1_1exception.html#abf41a7e9178356314082284e6cfea278" title=" " alt="" coords="221,907,425,949"/>
+<area shape="rect" id="node23" href="$classnlohmann_1_1json__pointer.html#a64c8401529131bad1e486d91d703795f" title="append an array index at the end of this JSON pointer" alt="" coords="236,973,411,1014"/>
+<area shape="rect" id="node24" href="$classnlohmann_1_1basic__json.html#a81e0c41a4a9dff4df2f6973f7f8b2a83" title="applies a JSON patch" alt="" coords="242,385,405,426"/>
+<area shape="rect" id="node25" href="$classnlohmann_1_1detail_1_1parse__error.html#aefe74adeaa48781464ba2fd2ec63d221" title=" " alt="" coords="235,1038,411,1079"/>
+<area shape="rect" id="node26" href="$classnlohmann_1_1detail_1_1json__sax__dom__parser.html#a056b895d011efaf48ea096c024aca0d4" title=" " alt="" coords="216,1103,431,1145"/>
+<area shape="rect" id="node27" href="$classnlohmann_1_1detail_1_1json__sax__dom__callback__parser.html#a5255b98ba8282e3625968f91cff9d3d0" title=" " alt="" coords="225,1169,422,1225"/>
+<area shape="rect" id="node28" href="$classnlohmann_1_1detail_1_1json__sax__dom__parser.html#a9929b4cc92d471c49bd0a92802629f90" title=" " alt="" coords="236,1249,411,1305"/>
+<area shape="rect" id="node29" href="$classnlohmann_1_1detail_1_1json__sax__dom__callback__parser.html#a040e60243cc7c18a6078c6b83cdb4a81" title=" " alt="" coords="225,1329,422,1385"/>
+<area shape="rect" id="node30" href="$classnlohmann_1_1detail_1_1binary__writer.html#a025212bd170253638b9f05b3b6aa5bf9" title="Writes a BSON element with key name and array value." alt="" coords="230,1410,417,1451"/>
+<area shape="rect" id="node31" href="$classnlohmann_1_1detail_1_1binary__writer.html#a5e295ed1be6af6260d2a65f7397c3742" title="Writes a BSON element with key name and unsigned value." alt="" coords="217,1475,429,1517"/>
+<area shape="rect" id="node32" href="$classnlohmann_1_1detail_1_1binary__writer.html#a0ea6745f944c0c61672146886b4ee90f" title=" " alt="" coords="223,1541,423,1597"/>
+<area shape="rect" id="node3" href="$at____object__t__key__type_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="59,5,114,32"/>
+<area shape="rect" id="node4" href="$unit-json__pointer_8cpp.html#a2cdca18b19a9ef7222b082a3723b5454" title=" " alt="" coords="47,56,126,83"/>
+<area shape="rect" id="node5" href="$unit-bson_8cpp.html#a4f9ffa47724af1f2b49e0204497d0e07" title=" " alt="" coords="39,107,134,133"/>
+<area shape="rect" id="node10" href="$classnlohmann_1_1basic__json.html#a543bd5f7490de54c875b2c0912dc9a49" title="creates a diff as a JSON patch" alt="" coords="5,275,168,317"/>
+<area shape="rect" id="node11" href="$diff_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="59,341,114,368"/>
+<area shape="rect" id="node12" href="$unit-json__patch_8cpp.html#a58658ae29d75546f62ea0ceb24fd3b20" title=" " alt="" coords="39,392,134,419"/>
+<area shape="rect" id="node20" href="$meta_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="59,824,114,851"/>
+<area shape="rect" id="node21" href="$unit-meta_8cpp.html#aea1ef5c4bdd07b78cee3226dcd0b9f91" title=" " alt="" coords="39,875,134,901"/>
+</map>

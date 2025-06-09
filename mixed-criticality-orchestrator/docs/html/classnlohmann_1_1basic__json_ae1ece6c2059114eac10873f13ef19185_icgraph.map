@@ -1,0 +1,7 @@
+<map id="nlohmann::basic_json::to_ubjson" name="nlohmann::basic_json::to_ubjson">
+<area shape="rect" id="node1" title="create a UBJSON serialization of a given JSON value" alt="" coords="236,74,399,115"/>
+<area shape="rect" id="node2" href="$fuzzer-parse__ubjson_8cpp.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node3" href="$to__ubjson_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="69,56,124,83"/>
+<area shape="rect" id="node4" href="$unit-regression_8cpp.html#aaf7197921832d27c6b326fb7f5b2cbc3" title=" " alt="" coords="57,107,136,133"/>
+<area shape="rect" id="node5" href="$unit-ubjson_8cpp.html#ab797072330961e1546e60c40f43863ba" title=" " alt="" coords="49,157,144,184"/>
+</map>

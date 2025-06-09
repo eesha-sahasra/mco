@@ -1,0 +1,4 @@
+<map id="nlohmann::detail::wide_string_input_adapter::get_character" name="nlohmann::detail::wide_string_input_adapter::get_character">
+<area shape="rect" id="node1" title="get a character [0,255] or std::char_traits&lt;char&gt;::eof()." alt="" coords="5,5,176,61"/>
+<area shape="rect" id="node2" href="$FuzzerTracePC_8cpp.html#a1f10ac78bd11294b612636121065eb5b" title=" " alt="" coords="224,20,287,47"/>
+</map>

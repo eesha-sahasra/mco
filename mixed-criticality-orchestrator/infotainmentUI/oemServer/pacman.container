@@ -1,0 +1,6 @@
+[Container]
+Image=localhost/pacman-game:latest
+ContainerName=pacman-v1
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8022:80
+Network=host

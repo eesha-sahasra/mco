@@ -1,0 +1,2 @@
+target_cpu_percentage,target_mem_percentage,step_size_percentage_cpu(%),step_size_percentage_mem(%),interval_cpu(sec),interval_mem(sec),single_core,Stop_stress_Delay (Sec)
+30,30,5,6,8,8,FALSE,1

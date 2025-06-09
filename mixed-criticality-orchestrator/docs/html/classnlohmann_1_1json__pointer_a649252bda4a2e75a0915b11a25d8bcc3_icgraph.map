@@ -1,0 +1,15 @@
+<map id="nlohmann::json_pointer::empty" name="nlohmann::json_pointer::empty">
+<area shape="rect" id="node1" title="return whether pointer points to the root document" alt="" coords="623,144,797,185"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1json__pointer.html#a213bc67c32a30c68ac6bf06f5195d482" title="return last reference token" alt="" coords="385,5,560,47"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#a81e0c41a4a9dff4df2f6973f7f8b2a83" title="applies a JSON patch" alt="" coords="154,64,317,105"/>
+<area shape="rect" id="node7" href="$json__pointer____empty_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="445,290,500,317"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1json__pointer.html#afdaacce1edb7145e0434e014f0e8685a" title="returns the parent of this JSON pointer" alt="" coords="148,232,323,273"/>
+<area shape="rect" id="node10" href="$classnlohmann_1_1json__pointer.html#a4b1ee4d511ca195bed896a3da47e264c" title="remove last reference token" alt="" coords="385,173,560,215"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1json__pointer.html#a00eff109d9a0091e42ada9b16b90c8d9" title=" " alt="" coords="371,122,575,149"/>
+<area shape="rect" id="node3" href="$json__pointer____back_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="208,13,263,39"/>
+<area shape="rect" id="node5" href="$diff_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,97,80,123"/>
+<area shape="rect" id="node6" href="$unit-json__patch_8cpp.html#a58658ae29d75546f62ea0ceb24fd3b20" title=" " alt="" coords="5,46,100,73"/>
+<area shape="rect" id="node9" href="$json__pointer____parent__pointer_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,239,80,266"/>
+<area shape="rect" id="node11" href="$json__pointer____pop__back_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="208,181,263,207"/>
+<area shape="rect" id="node12" href="$unit-json__pointer_8cpp.html#af0831fee504d3fdf4448dccb3ad079b3" title=" " alt="" coords="188,130,283,157"/>
+</map>

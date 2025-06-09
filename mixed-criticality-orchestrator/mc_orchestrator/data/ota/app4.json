@@ -1,0 +1,14 @@
+{
+  "app4": [
+    { "name": "app4" },
+    { "priority": "medium" },
+    { "pod_name": "" },
+    { "pod_status": "NULL" },
+    { "pod_running_status": "NULL" },
+    { "cpu_limit": "300m" },
+    { "memory_limit": "300Mi" },
+    { "cpu_request": "200m" },
+    { "memory_request": "200Mi" },
+    { "yaml_path": "../data/apps_yaml/app4.yaml" }
+  ]
+}

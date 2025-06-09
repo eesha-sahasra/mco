@@ -1,0 +1,65 @@
+# Project settings
+PROJECT_NAME           = "Mixed Criticality Orchestrator"
+PROJECT_BRIEF         = "Container Orchestrator based on BlueChi, Podman"
+OUTPUT_DIRECTORY      = docs
+
+# Input files
+INPUT                 = /home/komal/workspace/Denso/container-manager
+FILE_PATTERNS         = *.cpp *.hpp *.h
+RECURSIVE             = YES
+
+# Output settings
+GENERATE_HTML         = YES
+GENERATE_LATEX        = NO
+HTML_OUTPUT           = html
+
+# Graph settings
+HAVE_DOT             = YES
+CLASS_DIAGRAMS       = YES
+CLASS_GRAPH          = YES
+COLLABORATION_GRAPH  = YES
+INCLUDE_GRAPH        = YES
+INCLUDED_BY_GRAPH    = YES
+CALL_GRAPH           = YES
+CALLER_GRAPH         = YES
+DOT_IMAGE_FORMAT     = svg
+INTERACTIVE_SVG      = YES
+UML_LOOK            = YES
+UML_LIMIT_NUM_FIELDS = 50
+
+# Extraction settings
+EXTRACT_ALL          = YES
+EXTRACT_PRIVATE      = YES
+EXTRACT_PACKAGE      = YES
+EXTRACT_STATIC       = YES
+EXTRACT_LOCAL_CLASSES = YES
+
+# Build settings
+BUILTIN_STL_SUPPORT  = YES
+GENERATE_TREEVIEW    = YES
+
+# Source browsing
+SOURCE_BROWSER       = YES
+INLINE_SOURCES      = YES
+REFERENCES_RELATION = YES
+REFERENCED_BY_RELATION = YES
+
+# Path settings
+FULL_PATH_NAMES     = YES
+STRIP_FROM_PATH     = /home/komal/workspace/Denso/container-manager
+
+# Warning settings
+QUIET               = NO
+WARNINGS            = YES
+WARN_IF_UNDOCUMENTED = YES
+WARN_IF_DOC_ERROR   = YES
+
+# Preprocessing
+ENABLE_PREPROCESSING = YES
+MACRO_EXPANSION     = YES
+EXPAND_ONLY_PREDEF  = NO
+SEARCH_INCLUDES     = YES
+
+# Documentation settings
+USE_MDFILE_AS_MAINPAGE = README.md
+MARKDOWN_SUPPORT    = YES

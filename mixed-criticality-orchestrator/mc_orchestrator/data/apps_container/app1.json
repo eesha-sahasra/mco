@@ -1,0 +1,14 @@
+{
+  "app1": [
+    { "name": "app1" },
+    { "priority": "high" },
+    { "pod_name": "" },
+    { "pod_status": "NULL" },
+    { "pod_running_status": "NULL" },
+    { "cpu_limit": "300m" },
+    { "memory_limit": "300Mi" },
+    { "cpu_request": "200m" },
+    { "memory_request": "200Mi" },
+    { "yaml_path": "../data/apps_container/app1.container" }
+  ]
+}

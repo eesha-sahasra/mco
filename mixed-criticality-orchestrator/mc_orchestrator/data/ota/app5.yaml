@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app5
+  labels:
+    app: app5
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: app5
+  template:
+    metadata:
+      labels:
+        app: app5
+    spec:
+      containers:
+        - name: app5
+          image: dockerhub4komal/app5:v1

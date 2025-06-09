@@ -1,0 +1,7 @@
+<map id="fuzzer::ChangeBinaryInteger" name="fuzzer::ChangeBinaryInteger">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node2" href="$FuzzerTracePC_8cpp.html#a1f10ac78bd11294b612636121065eb5b" title=" " alt="" coords="326,5,389,32"/>
+<area shape="rect" id="node3" href="$namespacefuzzer.html#a88ebc94df04c93b5276f5dc95142da63" title=" " alt="" coords="301,56,414,83"/>
+<area shape="rect" id="node4" href="$classfuzzer_1_1Random.html#ad1b676d839fb8857db1e222f4c8d66a8" title=" " alt="" coords="260,107,455,133"/>
+<area shape="rect" id="node5" href="$classfuzzer_1_1Random.html#afe62c39a4f5590cf858998e73aad3a23" title=" " alt="" coords="503,107,668,133"/>
+</map>

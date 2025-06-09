@@ -1,0 +1,10 @@
+<map id="nlohmann::basic_json::items" name="nlohmann::basic_json::items">
+<area shape="rect" id="node1" title="helper to access iterator member functions in range&#45;based for" alt="" coords="584,119,747,160"/>
+<area shape="rect" id="node2" href="$classDatabaseHandler.html#a7a38f8acc49ef0b1418716fa7ebf824e" title="Read the data from the database." alt="" coords="311,46,533,73"/>
+<area shape="rect" id="node5" href="$items_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="395,97,449,123"/>
+<area shape="rect" id="node6" href="$classConfigHandler.html#a5f22a28a3148d66a75d376eaade4fa5b" title="Save app JSON file content to database." alt="" coords="308,148,536,189"/>
+<area shape="rect" id="node8" href="$unit-regression_8cpp.html#a6625b5caaea461d6d6e4b9456b04a1e7" title=" " alt="" coords="383,214,461,241"/>
+<area shape="rect" id="node3" href="$classQmOtaHandler.html#a6ccbedb2878978ac7073ef4e10be6220" title="Check for successful OTA download." alt="" coords="25,5,240,47"/>
+<area shape="rect" id="node4" href="$classConfigHandler.html#a969e3ca03c0a638d455ac8935522aaef" title="Save the initial JSON file content to the database." alt="" coords="17,71,249,98"/>
+<area shape="rect" id="node7" href="$classServerHandler.html#af3ecda4d745ef95296198e41ac3cf6e1" title="start LFO server" alt="" coords="5,148,260,189"/>
+</map>

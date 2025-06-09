@@ -1,0 +1,12 @@
+<map id="nlohmann::detail::exception::what" name="nlohmann::detail::exception::what">
+<area shape="rect" id="node1" title="returns the explanatory string" alt="" coords="565,217,769,259"/>
+<area shape="rect" id="node2" href="$classDatabaseHandler.html#a7a38f8acc49ef0b1418716fa7ebf824e" title="Read the data from the database." alt="" coords="290,42,513,69"/>
+<area shape="rect" id="node5" href="$classPodmanPodUsageCommand.html#afa3e242992fe8860625ff23403ce20e4" title=" " alt="" coords="298,93,505,135"/>
+<area shape="rect" id="node6" href="$classUserAppControlHandler.html#a405532812369082c6893c30bdae67c62" title="Initialize User App Control Handler." alt="" coords="314,159,489,200"/>
+<area shape="rect" id="node7" href="$at____object__t__key__type_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="374,225,429,251"/>
+<area shape="rect" id="node8" href="$classsax__event__consumer.html#a47b630c637d98e61bf3211145391b1a1" title="a parse error occurred" alt="" coords="321,276,481,317"/>
+<area shape="rect" id="node9" href="$classDatabaseHandler.html#ac3ac0ed5f78fa5912251846a09d49d83" title="Read the data from the database." alt="" coords="298,342,505,369"/>
+<area shape="rect" id="node10" href="$classConfigHandler.html#a3e5044accd38f03af3f0f8d77469e1bf" title="Save the initial JSON file content to the database." alt="" coords="285,393,517,419"/>
+<area shape="rect" id="node3" href="$classQmOtaHandler.html#a6ccbedb2878978ac7073ef4e10be6220" title="Check for successful OTA download." alt="" coords="14,5,229,47"/>
+<area shape="rect" id="node4" href="$classConfigHandler.html#a969e3ca03c0a638d455ac8935522aaef" title="Save the initial JSON file content to the database." alt="" coords="5,71,237,98"/>
+</map>

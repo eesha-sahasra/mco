@@ -1,0 +1,15 @@
+[Container]
+# Container image and execution
+Image=localhost/video-streaming-qm:latest
+ContainerName=app1
+
+# Environment variables and network configuration
+Environment=HOST_IP=172.31.37.88
+PublishPort=7001:7001
+Network=host
+
+# Restart policy
+#RestartPolicy=on-failure
+
+# Clean up the container after stopping
+#Remove=true

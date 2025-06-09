@@ -1,0 +1,6 @@
+<map id="nlohmann::basic_json::get_impl_ptr" name="nlohmann::basic_json::get_impl_ptr">
+<area shape="rect" id="node1" title="get a pointer to the value (object)" alt="" coords="359,23,521,65"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#abefbb319df8ed4f8705b4fd4e4dc731c" title="get a pointer value (implicit)" alt="" coords="148,23,311,65"/>
+<area shape="rect" id="node3" href="$get__ptr_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,5,80,32"/>
+<area shape="rect" id="node4" href="$unit-pointer__access_8cpp.html#aca36112904104e8110ca22c33cce42f9" title=" " alt="" coords="5,56,100,83"/>
+</map>

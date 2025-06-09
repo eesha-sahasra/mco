@@ -1,0 +1,4 @@
+var structnlohmann_1_1detail_1_1is__constructible__string__type__impl_3_01BasicJsonType_00_01Construe4743afb22172cdb3c5f428800835387 =
+[
+    [ "value", "structnlohmann_1_1detail_1_1is__constructible__string__type__impl_3_01BasicJsonType_00_01Construe4743afb22172cdb3c5f428800835387.html#a333e92411ae32f5bc835ef27f89645db", null ]
+];

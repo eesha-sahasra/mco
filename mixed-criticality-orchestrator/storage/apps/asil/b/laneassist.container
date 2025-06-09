@@ -1,0 +1,6 @@
+[Container]
+Image=localhost/lane-assistant:latest
+ContainerName=laneassist
+PublishPort=5009:5009
+Network=host
+#Exec=sleep infinity

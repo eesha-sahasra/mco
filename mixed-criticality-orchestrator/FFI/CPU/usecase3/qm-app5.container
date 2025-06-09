@@ -1,0 +1,8 @@
+[Container]
+ContainerName=Cpu-stress-app5
+#Image=localhost/cpu-stress-app
+Image=localhost/qm-cpu-app
+Network=host
+[Service]
+CPUWeight=1024
+

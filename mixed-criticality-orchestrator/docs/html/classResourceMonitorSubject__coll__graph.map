@@ -1,0 +1,12 @@
+<map id="ResourceMonitorSubject" name="ResourceMonitorSubject">
+<area shape="rect" id="node1" title=" " alt="" coords="263,703,492,971"/>
+<area shape="rect" id="node2" href="$classSubject.html" title=" " alt="" coords="5,519,165,640"/>
+<area shape="rect" id="node3" title=" " alt="" coords="190,541,381,618"/>
+<area shape="rect" id="node4" href="$classObserver.html" title=" " alt="" coords="132,301,249,393"/>
+<area shape="rect" id="node5" title=" " alt="" coords="565,417,752,495"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="465,147,551,224"/>
+<area shape="rect" id="node10" title=" " alt="" coords="273,301,436,393"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="439,5,577,97"/>
+<area shape="rect" id="node8" href="$classMqttHandler.html" title=" " alt="" coords="405,533,534,625"/>
+<area shape="rect" id="node9" title=" " alt="" coords="461,309,625,386"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DatabaseHandler::IsDatabaseAvailable" name="DatabaseHandler::IsDatabaseAvailable">
+<area shape="rect" id="node1" title="Check if the database server is available." alt="" coords="556,60,772,101"/>
+<area shape="rect" id="node2" href="$classDatabaseHandler.html#a7a38f8acc49ef0b1418716fa7ebf824e" title="Read the data from the database." alt="" coords="285,42,508,69"/>
+<area shape="rect" id="node5" href="$classDatabaseHandler.html#ad0a72027830f5b1fcc8e9d00b9a291ce" title="Read the application value from the database." alt="" coords="293,93,500,119"/>
+<area shape="rect" id="node3" href="$classQmOtaHandler.html#a6ccbedb2878978ac7073ef4e10be6220" title="Check for successful OTA download." alt="" coords="14,5,229,47"/>
+<area shape="rect" id="node4" href="$classConfigHandler.html#a969e3ca03c0a638d455ac8935522aaef" title="Save the initial JSON file content to the database." alt="" coords="5,71,237,98"/>
+</map>

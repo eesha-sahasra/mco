@@ -1,0 +1,5 @@
+<map id="DatabaseHandler::AppendData" name="DatabaseHandler::AppendData">
+<area shape="rect" id="node1" title="Read the data from the database." alt="" coords="285,42,508,69"/>
+<area shape="rect" id="node2" href="$classQmOtaHandler.html#a6ccbedb2878978ac7073ef4e10be6220" title="Check for successful OTA download." alt="" coords="14,5,229,47"/>
+<area shape="rect" id="node3" href="$classConfigHandler.html#a969e3ca03c0a638d455ac8935522aaef" title="Save the initial JSON file content to the database." alt="" coords="5,71,237,98"/>
+</map>

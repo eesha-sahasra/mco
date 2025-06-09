@@ -1,0 +1,7 @@
+<map id="nlohmann::basic_json::is_discarded" name="nlohmann::basic_json::is_discarded">
+<area shape="rect" id="node1" title="return whether value is discarded" alt="" coords="339,49,501,90"/>
+<area shape="rect" id="node2" href="$FuzzerMain_8cpp.html#a1c473c9665269a78ef9001573a6995df" title=" " alt="" coords="108,5,291,32"/>
+<area shape="rect" id="node4" href="$is__discarded_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="172,56,227,83"/>
+<area shape="rect" id="node5" href="$unit-cbor_8cpp.html#accaddb9a94ac88da3a33ea3eb85d7b25" title=" " alt="" coords="152,107,247,133"/>
+<area shape="rect" id="node3" href="$FuzzerMain_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,5,60,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nlohmann::detail::binary_reader&lt; BasicJsonType, SAX &gt;" name="nlohmann::detail::binary_reader&lt; BasicJsonType, SAX &gt;">
+<area shape="rect" id="node1" title="deserialization of CBOR, MessagePack, and UBJSON values" alt="" coords="5,359,233,1565"/>
+<area shape="rect" id="node2" title=" " alt="" coords="36,204,203,296"/>
+<area shape="rect" id="node3" href="$structnlohmann_1_1detail_1_1input__adapter__protocol.html" title="abstract input adapter interface" alt="" coords="15,5,223,141"/>
+</map>

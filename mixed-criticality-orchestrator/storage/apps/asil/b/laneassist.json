@@ -1,0 +1,3 @@
+{
+  "laneassist": [{"resources": {"cpu":"5", "memory": "3000Mi"}}, {"yaml_path": "../../storage/apps/asil/b/laneassist.container"}]
+}

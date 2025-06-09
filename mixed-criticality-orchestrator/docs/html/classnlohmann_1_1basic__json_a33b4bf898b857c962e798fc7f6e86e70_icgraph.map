@@ -1,0 +1,10 @@
+<map id="nlohmann::basic_json::is_number_float" name="nlohmann::basic_json::is_number_float">
+<area shape="rect" id="node1" title="return whether value is a floating&#45;point number" alt="" coords="569,136,732,177"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a01e81365c2c6897b39b793530e02aca5" title="get a pointer to the value (floating&#45;point number)" alt="" coords="359,41,521,83"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#a2b9852390abb4b1ef5fac6984e2fc0f3" title="return whether value is a number" alt="" coords="359,107,521,148"/>
+<area shape="rect" id="node6" href="$unit-inspection_8cpp.html#a7c45242f718e95a5a52e19e456f8e228" title=" " alt="" coords="5,71,100,98"/>
+<area shape="rect" id="node8" href="$is__number__float_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="413,223,467,250"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#a6362b88718eb5c6d4fed6a61eed44b95" title="return whether type is primitive" alt="" coords="148,5,311,47"/>
+<area shape="rect" id="node7" href="$is__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="202,122,257,149"/>
+<area shape="rect" id="node5" href="$is__primitive_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,13,80,39"/>
+</map>

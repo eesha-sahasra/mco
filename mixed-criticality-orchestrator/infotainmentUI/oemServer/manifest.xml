@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<xl4_pkg_update_manifest>
+  <package>GAME-OTA-AGENT2</package>
+  <name>GAME-OTA-AGENT2</name>
+  <type>/SDK/C_AGENT_2</type>
+  <version>7.6.0</version>
+  <hardware-statement>true</hardware-statement>
+</xl4_pkg_update_manifest>

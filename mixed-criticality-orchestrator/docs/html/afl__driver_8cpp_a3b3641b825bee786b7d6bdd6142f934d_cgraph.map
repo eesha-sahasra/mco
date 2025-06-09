@@ -1,0 +1,8 @@
+<map id="maybe_initialize_extra_stats" name="maybe_initialize_extra_stats">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,176,90"/>
+<area shape="rect" id="node2" href="$afl__driver_8cpp.html#a8f2b3e866b04241a9534c9dae5a36b39" title=" " alt="" coords="224,5,337,32"/>
+<area shape="rect" id="node3" href="$afl__driver_8cpp.html#a18920b5c2b3c0475c58d446c05d72f0b" title=" " alt="" coords="385,31,520,57"/>
+<area shape="rect" id="node6" href="$afl__driver_8cpp.html#a3fbb8512a2144f9a67c7f706d3283d7f" title=" " alt="" coords="229,107,332,133"/>
+<area shape="rect" id="node4" href="$afl__driver_8cpp.html#a6b1c9549462c500839ac0bc8c5bf1c58" title=" " alt="" coords="568,31,691,57"/>
+<area shape="rect" id="node5" href="$FuzzerTracePC_8cpp.html#a1f10ac78bd11294b612636121065eb5b" title=" " alt="" coords="739,31,801,57"/>
+</map>

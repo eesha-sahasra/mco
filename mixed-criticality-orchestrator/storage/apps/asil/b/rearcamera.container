@@ -1,0 +1,5 @@
+[Container]
+Image=localhost/rear-camera-app
+ContainerName=rearcamera
+PublishPort=8025:8025
+Network=host

@@ -1,0 +1,16 @@
+{
+  "pacman": [
+    {
+      "version": "1.0.0"
+    },
+    {"category": "games"},
+    {
+      "imageUrl": "https://www.fizzcreations.com/wp-content/uploads/2020/01/PAC-MAN-Banner.jpg"
+    },
+    {
+      "yaml_path": "../../storage/apps/qm/infotainment/games/pacman.container"
+    },
+    {"resources": {"cpu":"3", "memory": "3000Mi"}},
+    {"priority":"low"}
+  ]
+}

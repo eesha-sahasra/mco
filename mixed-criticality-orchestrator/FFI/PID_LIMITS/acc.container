@@ -1,0 +1,5 @@
+[Container]
+Image=localhost/vehicle-detection-frame:latest
+ContainerName=acc
+PublishPort=5000:5000
+Network=host

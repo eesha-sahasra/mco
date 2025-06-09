@@ -1,0 +1,7 @@
+<map id="nlohmann::basic_json::is_number" name="nlohmann::basic_json::is_number">
+<area shape="rect" id="node1" title="return whether value is a number" alt="" coords="359,64,521,105"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a6362b88718eb5c6d4fed6a61eed44b95" title="return whether type is primitive" alt="" coords="148,5,311,47"/>
+<area shape="rect" id="node4" href="$unit-inspection_8cpp.html#a7c45242f718e95a5a52e19e456f8e228" title=" " alt="" coords="5,67,100,94"/>
+<area shape="rect" id="node5" href="$is__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="202,122,257,149"/>
+<area shape="rect" id="node3" href="$is__primitive_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,13,80,39"/>
+</map>

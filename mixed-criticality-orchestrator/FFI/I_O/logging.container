@@ -1,0 +1,12 @@
+[Container]
+Image=localhost/space-invaders-read-write:latest
+ContainerName=logging
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8022:8022
+Network=host
+#Privileged=true
+AddDevice=-/dev/nvme0n1
+[Service]
+IOReadBandwidthMax=/dev/nvme0n1 2M
+IOWriteBandwidthMax=/dev/nvme0n1 500KB
+

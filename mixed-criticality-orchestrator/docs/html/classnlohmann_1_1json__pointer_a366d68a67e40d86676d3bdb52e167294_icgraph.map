@@ -1,0 +1,5 @@
+<map id="nlohmann::json_pointer::get_checked" name="nlohmann::json_pointer::get_checked">
+<area shape="rect" id="node1" title=" " alt="" coords="237,27,412,69"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a8ab61397c10f18b305520da7073b2b45" title="access specified element via JSON Pointer" alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#a671aea68432ecb28770bbc482918f023" title="access specified object element via JSON Pointer with default value" alt="" coords="16,57,179,98"/>
+</map>

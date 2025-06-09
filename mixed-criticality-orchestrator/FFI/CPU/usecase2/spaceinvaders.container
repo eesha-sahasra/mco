@@ -1,0 +1,9 @@
+[Container]
+Image=localhost/spaceinvaders-full-stress:latest
+ContainerName=spaceinvaders
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8022:8022
+Network=host
+
+[Service]
+CPUQuota=200%

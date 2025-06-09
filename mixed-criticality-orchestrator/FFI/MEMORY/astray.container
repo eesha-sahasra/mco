@@ -1,0 +1,8 @@
+[Container]
+Image=localhost/astray-memory-stress:latest
+ContainerName=astray
+Volume=/tmp/apache-logs:/usr/local/apache2/logs
+PublishPort=8021:8021
+[Service]
+#MemoryHigh=30%
+MemoryMax=40%

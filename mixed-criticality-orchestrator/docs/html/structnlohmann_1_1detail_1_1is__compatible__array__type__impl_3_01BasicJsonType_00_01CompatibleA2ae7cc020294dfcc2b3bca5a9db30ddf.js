@@ -1,0 +1,4 @@
+var structnlohmann_1_1detail_1_1is__compatible__array__type__impl_3_01BasicJsonType_00_01CompatibleA2ae7cc020294dfcc2b3bca5a9db30ddf =
+[
+    [ "value", "structnlohmann_1_1detail_1_1is__compatible__array__type__impl_3_01BasicJsonType_00_01CompatibleA2ae7cc020294dfcc2b3bca5a9db30ddf.html#a4a085c7d8e8ed465a27b0d66e29b0331", null ]
+];

@@ -1,0 +1,6 @@
+<map id="DatabaseHandler::ReadData" name="DatabaseHandler::ReadData">
+<area shape="rect" id="node1" title="Read the data from the database." alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a6b187a22994c12c8cae0dd5ee99dc85e" title="get special&#45;case overload" alt="" coords="266,5,458,32"/>
+<area shape="rect" id="node3" href="$FuzzerTracePC_8cpp.html#a04324001136ead9261bb82cc6bceea2f" title=" " alt="" coords="343,56,381,83"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1detail_1_1exception.html#a11fe48748e811531614c84883b00ccd5" title="returns the explanatory string" alt="" coords="260,107,464,149"/>
+</map>

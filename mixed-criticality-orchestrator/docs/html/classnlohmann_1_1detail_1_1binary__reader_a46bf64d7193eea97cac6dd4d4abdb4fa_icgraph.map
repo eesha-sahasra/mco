@@ -1,0 +1,10 @@
+<map id="nlohmann::detail::binary_reader::get_bson_string" name="nlohmann::detail::binary_reader::get_bson_string">
+<area shape="rect" id="node1" title="Parses a zero&#45;terminated string of length len from the BSON input." alt="" coords="1399,51,1581,92"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1binary__reader.html#a2fdd24de008063e7fef896327daeffa1" title="Read a BSON document element of the given element_type." alt="" coords="1136,43,1351,99"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1detail_1_1binary__reader.html#a7316619ace9efdc718d04e7b8f807e1e" title="Read a BSON element list (as specified in the BSON&#45;spec)" alt="" coords="847,51,1088,92"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1detail_1_1binary__reader.html#a650dd6f9f05e86eb62cd4717301a5ffa" title="Reads an array from the BSON input and passes it to the SAX&#45;parser." alt="" coords="596,5,791,47"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1detail_1_1binary__reader.html#a950f6ef800421fef9499af1c4c8918f5" title="Reads in a BSON&#45;object and passes it to the SAX&#45;parser." alt="" coords="588,84,799,125"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1detail_1_1binary__reader.html#ab94a54d6e595c2620b07589cf4116256" title=" " alt="" coords="359,84,540,125"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1basic__json.html#a8a3dd150c2d1f0df3502d937de0871db" title="generate SAX events" alt="" coords="148,84,311,125"/>
+<area shape="rect" id="node8" href="$unit-bson_8cpp.html#a73301d5e6d0f638e973f748287501dd6" title=" " alt="" coords="5,91,100,118"/>
+</map>

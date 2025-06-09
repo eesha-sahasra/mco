@@ -1,0 +1,9 @@
+<map id="nlohmann::detail::binary_reader::parse_ubjson_internal" name="nlohmann::detail::binary_reader::parse_ubjson_internal">
+<area shape="rect" id="node1" title=" " alt="" coords="731,89,953,131"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1binary__reader.html#a4e8ef9561d4403ea68e3c2712fd289e2" title=" " alt="" coords="492,5,683,47"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1detail_1_1binary__reader.html#ad0932dd568fcbbd2b4c2ccf9122544a5" title=" " alt="" coords="5,31,203,72"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1detail_1_1binary__reader.html#ab94a54d6e595c2620b07589cf4116256" title=" " alt="" coords="497,173,678,215"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1detail_1_1binary__reader.html#a5f425199a77f403e32f076ff8487f853" title=" " alt="" coords="251,31,444,72"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1basic__json.html#a8a3dd150c2d1f0df3502d937de0871db" title="generate SAX events" alt="" coords="266,173,429,215"/>
+<area shape="rect" id="node7" href="$unit-bson_8cpp.html#a73301d5e6d0f638e973f748287501dd6" title=" " alt="" coords="57,181,151,207"/>
+</map>

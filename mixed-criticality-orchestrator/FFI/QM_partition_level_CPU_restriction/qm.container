@@ -1,0 +1,65 @@
+[Install]
+WantedBy=default.target
+
+[Service]
+# It's recommended to use systemd drop-in to override the
+# systemd settings. See QM manpage for an example.
+CPUWeight=50
+Delegate=true
+IOWeight=50
+ManagedOOMSwap=kill
+
+## Restricting the QM partition to use only 3 full CPU cores(core0, core1 & core2)
+CPUQuota=100%
+AllowedCPUs=0-2
+
+# MemoryMax
+# -----------
+# Default is infinity - sets no upper bound on memory usage, allowing the
+# service to consume as much memory as the system allows, just like
+# MemoryMax=0 or omitting it.
+MemoryMax=infinity
+
+# MemoryHigh
+# -----------
+# Default is infinity - Disables the soft memory limit, meaning no throttling
+# will occur due to high memory usage, similar to MemoryHigh=0 or
+# omitting it.
+MemoryHigh=infinity
+MemorySwapMax=0
+
+# Containers within the qm contain default set OOMScoreAdj to 750
+OOMScoreAdjust=500
+Restart=always
+Slice=QM.slice
+Environment=ROOTFS=/usr/lib/qm/rootfs
+Environment=RWETCFS=/etc/qm
+Environment=RWVARFS=/var/qm
+LimitNOFILE=65536
+TasksMax=50%
+
+[Container]
+AddCapability=all
+
+# Comment DropCapability this will allow FFI Tools to surpass their defaults.
+DropCapability=sys_resource
+
+AddDevice=-/dev/kvm
+AddDevice=-/dev/fuse
+ContainerName=qm
+Exec=/sbin/init
+Network=private
+PodmanArgs=--pids-limit=-1 --security-opt seccomp=/usr/share/qm/seccomp.json --security-opt label=disable --security-opt unmask=all
+ReadOnly=true
+Rootfs=${ROOTFS}
+
+SecurityLabelNested=true
+SecurityLabelFileType=qm_file_t
+SecurityLabelLevel=s0
+SecurityLabelType=qm_t
+# WIP - Github Issue#367
+# See https://github.com/containers/qm/issues/367 for more info.
+# Timezone=local
+Environment=TZ
+Volume=${RWETCFS}:/etc
+Volume=${RWVARFS}:/var

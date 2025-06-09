@@ -1,0 +1,6 @@
+<map id="nlohmann::basic_json::diff" name="nlohmann::basic_json::diff">
+<area shape="rect" id="node1" title="creates a diff as a JSON patch" alt="" coords="216,64,379,105"/>
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a543bd5f7490de54c875b2c0912dc9a49" title="creates a diff as a JSON patch" alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node3" href="$diff_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="59,71,114,98"/>
+<area shape="rect" id="node4" href="$unit-json__patch_8cpp.html#a58658ae29d75546f62ea0ceb24fd3b20" title=" " alt="" coords="39,122,134,149"/>
+</map>
